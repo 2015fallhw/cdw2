@@ -1,4 +1,4 @@
 #print("hello")
-for i in range(7):
+for i in range(10):
    #g.es("hello")
    print("hello")
