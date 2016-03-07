@@ -10,6 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20160307101043.1" a="E"><vh>@path ./../</vh>
+<v t="leo.20160307115659.1"><vh>@edit ..\..\home\.gitconfig</vh></v>
 <v t="leo.20160307100953.2"><vh>@edit cdw2-1.py</vh></v>
 </v>
 </vnodes>
