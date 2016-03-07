@@ -14,8 +14,6 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160303085834.2">#print("hello")
-for i in range(5):
-    g.es("hello")</t>
+<t tx="leo.20160303085834.2"></t>
 </tnodes>
 </leo_file>
