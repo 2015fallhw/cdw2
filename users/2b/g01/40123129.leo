@@ -10,7 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20160310095106.1"><vh>newHeadline</vh></v>
-<v t="leo.20160310094512.2" a="E"><vh>@path ./../../</vh>
+<v t="leo.20160310094512.2" a="E"><vh>@path ./../../../</vh>
 <v t="leo.20160310094946.1"><vh>@edit 2016_cd_2a_1.txt</vh></v>
 </v>
 </vnodes>
