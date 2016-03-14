@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160310104254.2"><vh>@edit 40123227_w3_1.py</vh></v>
+<v t="leo.20160310104254.2"><vh>@edit 40123227_w2_1.py</vh></v>
 <v t="leo.20160310104443.1" a="E"><vh>@path ./../../../</vh>
 <v t="leo.20160310104457.1"><vh>@edit cdw2_1.py</vh></v>
 </v>
