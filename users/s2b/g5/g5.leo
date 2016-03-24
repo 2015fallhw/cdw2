@@ -9,10 +9,13 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160310094349.2"><vh>@edit 40323226_w3_1.py</vh></v>
-<v t="leo.20160310094436.1"><vh>@path</vh></v>
+<v t="amd.20160316010428.2"><vh>編輯外部的 index.html</vh></v>
+<v t="amd.20160316010520.1" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160316010535.1"><vh>@edit index.html</vh></v>
+</v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160310094436.1"></t>
+<t tx="amd.20160316010428.2"></t>
+<t tx="amd.20160316010520.1"></t>
 </tnodes>
 </leo_file>

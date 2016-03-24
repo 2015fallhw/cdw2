@@ -9,9 +9,17 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160303085834.2"><vh>@edit cdw2_1.py</vh></v>
-<v t="leo.20160303091129.1"><vh>@edit index.html</vh></v>
+<v t="leo.20160310104729.1"><vh>Task0 任務說明</vh></v>
+<v t="leo.20160310105046.1"><vh>@edit 40328242_w3_1.py</vh></v>
+<v t="leo.20160310104719.1" a="E"><vh>@path ././././2b_files/task0</vh>
+<v t="leo.20160310104652.2"><vh>@edit 2016_cd_2b_1.txt</vh></v>
+<v t="leo.20160310104821.1"><vh>@edit 2016_cd_2b_2.txt</vh></v>
+</v>
 </vnodes>
 <tnodes>
+<t tx="leo.20160310104652.2"></t>
+<t tx="leo.20160310104719.1"></t>
+<t tx="leo.20160310104729.1"></t>
+<t tx="leo.20160310104821.1"></t>
 </tnodes>
 </leo_file>

@@ -9,15 +9,13 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160307094158.1"><vh>cdw2 修改註記</vh></v>
-<v t="leo.20160307093407.1"><vh>@path ./../</vh>
-<v t="leo.20160307093205.2"><vh>@edit cdw2_1.py</vh></v>
+<v t="amd.20160316010428.2"><vh>編輯外部的 index.html</vh></v>
+<v t="amd.20160316010520.1" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160316010535.1"><vh>@edit index.html</vh></v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160307093407.1"></t>
-<t tx="leo.20160307094158.1">將 g.es 改為 print
-
-將迴圈重複次數從 5 改為 10</t>
+<t tx="amd.20160316010428.2"></t>
+<t tx="amd.20160316010520.1"></t>
 </tnodes>
 </leo_file>
