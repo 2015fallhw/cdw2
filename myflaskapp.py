@@ -10,7 +10,8 @@ import init
 import users.s2b.g99.task0
 import users.s2a.g100.task0 as ag100_0
 import s2b_files.task1.g1.task0 as bg1_0
-
+import users.s2a.g8.task1.ag8_40323143_tesk_1 as ag8_40323143_tesk_1
+import users.s2a.g8.a40323123.ag8_40323123 as ag8_40323123
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -314,6 +315,8 @@ app.register_blueprint(users.s2b.g99.task0.bg99)
 app.register_blueprint(ag100_0.ag100)
 # 註冊位於 bg1_0 (也就是 users.s2a.g100.task0.py 程式中的 ag100 藍圖案例)
 app.register_blueprint(bg1_0.bg1)
+app.register_blueprint(ag8_40323143_tesk_1.ag8_40323143)
+app.register_blueprint(ag8_40323123.ag8_40323123)
 
 if __name__ == "__main__":
     app.run()
