@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -10,58 +9,37 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20160308180508.2"><vh>簡單的 Flask 網際程式</vh></v>
-<v t="amd.20160308180732.1" a="E"><vh>近端與遠端共用程式碼</vh>
-<v t="amd.20160308182756.1"><vh>程式功能</vh></v>
+<v t="amd.20160329205817.1"><vh>ag100 註解</vh></v>
+<v t="amd.20160314224057.1" a="E"><vh>master 分支 flask 程式開發</vh>
+<v t="amd.20160329201851.1"><vh>ag100 組程式規畫</vh></v>
+<v t="amd.20160314224303.1"><vh>@edit scrum1_task1.py</vh></v>
+<v t="amd.20160314224120.1" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160314224203.1" a="E"><vh>@clean myflaskapp.py</vh>
+<v t="amd.20160314224223.1"><vh>myflaskapp declarations</vh></v>
+<v t="amd.20160314224223.2"><vh>index</vh></v>
+<v t="amd.20160314224223.3"><vh>user</vh></v>
+<v t="amd.20160314224223.4"><vh>red</vh></v>
+<v t="amd.20160314224223.5"><vh>guessform</vh></v>
+<v t="amd.20160314224223.6"><vh>docheck</vh></v>
+<v t="amd.20160314224223.7"><vh>option</vh></v>
+<v t="amd.20160314224223.8"><vh>optionaction</vh></v>
+<v t="amd.20160314224223.9"><vh>fileaxupload</vh></v>
+<v t="amd.20160314224223.10"><vh>fileuploadform</vh></v>
+<v t="amd.20160314224223.11"><vh>download</vh></v>
 </v>
-<v t="amd.20160308180556.1" a="E"><vh>@path static</vh>
-<v t="amd.20160308181336.1"><vh>@edit axuploader.js </vh></v>
-</v>
-<v t="amd.20160308181050.1"><vh>@edit setup.py</vh></v>
-<v t="amd.20160308181031.1" a="E"><vh>@clean wsgi.py</vh>
-<v t="amd.20160308181114.1"><vh>wsgi declarations</vh></v>
-</v>
-<v t="amd.20160308213741.1" a="E"><vh>@clean init.py</vh>
-<v t="amd.20160308213813.1" a="E"><vh>class Init</vh>
-<v t="amd.20160308213813.2"><vh>__init__</vh></v>
+<v t="amd.20160314224239.1"><vh>@path templates</vh></v>
 </v>
 </v>
-<v t="amd.20160308181042.1" a="E"><vh>@clean myflaskapp.py</vh>
-<v t="amd.20160308181134.1"><vh>myflaskapp declarations</vh></v>
-<v t="amd.20160308181134.2"><vh>index</vh></v>
-<v t="amd.20160308181134.3"><vh>user</vh></v>
-<v t="amd.20160308181134.4"><vh>red</vh></v>
-<v t="amd.20160308181134.5"><vh>guessform</vh></v>
-<v t="amd.20160308181134.6"><vh>docheck</vh></v>
-<v t="amd.20160308181134.7"><vh>option</vh></v>
-<v t="amd.20160308181134.8"><vh>optionaction</vh></v>
-<v t="amd.20160308210121.1"><vh>fileaxupload</vh></v>
-<v t="amd.20160308205930.1"><vh>fileuploadform</vh></v>
-<v t="amd.20160308215931.1"><vh>download</vh></v>
-</v>
-<v t="amd.20160308180605.1" a="E"><vh>@path templates</vh>
-<v t="amd.20160313095138.1"><vh>@edit docheck.html</vh></v>
-<v t="amd.20160313095147.1"><vh>@edit guessform.html</vh></v>
-<v t="amd.20160313095201.1"><vh>@edit toobig.html</vh></v>
-<v t="amd.20160313095208.1"><vh>@edit toosmall.html</vh></v>
-<v t="amd.20160313095048.1"><vh>@edit index.html</vh></v>
-<v t="amd.20160313095116.1"><vh>@edit option.html</vh></v>
-<v t="amd.20160313095126.1"><vh>@edit optionaction.html</vh></v>
-</v>
-<v t="121.20160406102238.2" a="E"><vh>Recovered Nodes</vh>
-<v t="121.20160406102238.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
-<v t="121.20160406102238.4"><vh>old:myflaskapp declarations</vh></v>
-<v t="121.20160406102238.5"><vh>new:myflaskapp declarations</vh></v>
-</v>
-<v t="121.20160406102238.6"><vh>Recovered node "download" from @clean myflaskapp.py</vh>
-<v t="121.20160406102238.7"><vh>old:download</vh></v>
-<v t="121.20160406102238.8"><vh>new:download</vh></v>
+<v t="54654.20160407094530.2" a="E"><vh>Recovered Nodes</vh>
+<v t="54654.20160407094530.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
+<v t="54654.20160407094530.4"><vh>old:myflaskapp declarations</vh></v>
+<v t="54654.20160407094530.5"><vh>new:myflaskapp declarations</vh></v>
 </v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="121.20160406102238.2"></t>
-<t tx="121.20160406102238.3">(uncached) amd.20160308181134.1
+<t tx="54654.20160407094530.2"></t>
+<t tx="54654.20160407094530.3">(uncached) amd.20160314224223.1
 Diff...
   # coding: utf-8
   from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
@@ -71,16 +49,18 @@ Diff...
   # init.py 為自行建立的起始物件
   import init
   
-- # 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
-- # 以下依照班別與組別導入模組
-- # 二甲
-- # 導入 ag100 所屬的模組
-- import users.s2a.g100.scrum1_task1
+  # 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+  # 以下依照班別與組別導入模組
+  # 二甲
+  # 導入 ag100 所屬的模組
+  import users.s2a.g100.scrum1_task1
 - import users.s2a.g100.scrum2_task1
-- # 二乙
-- import s2b_files.task1.g1.task0 as bg1_0
+  # 二乙
+  import s2b_files.task1.g1.task0 as bg1_0
 - #g2
-- import users.s2b.g2.task0
+  import users.s2b.g2.task0
++ 
++ 
 - import users.s2b.g2.scrum1_task40123235
 - import users.s2b.g2.scrum2_task40123202
 - import users.s2b.g2.scrum2_task40123214
@@ -89,6 +69,9 @@ Diff...
 - import users.s2b.g2.scrum2_task40123232
 - import users.s2b.g2.scrum2_task40123235
 - import users.s2b.g2.scrum2_task40123244
+- #g9
+- import users.s2b.g9.task0
+- import users.s2b.g9.scrum1_task40323250
   # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
   _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
   # 設定在雲端與近端的資料儲存目錄
@@ -122,48 +105,7 @@ Diff...
   
   
 </t>
-<t tx="121.20160406102238.4"># coding: utf-8
-from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
-import random
-import math
-import os
-# init.py 為自行建立的起始物件
-import init
-
-# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
-_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
-# 設定在雲端與近端的資料儲存目錄
-if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
-    # 表示程式在雲端執行
-    data_dir = os.environ['OPENSHIFT_DATA_DIR']
-    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
-    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
-else:
-    # 表示程式在近端執行
-    data_dir = _curdir + "/local_data/"
-    static_dir = _curdir + "/static"
-    download_dir = _curdir + "/local_data/downloads/"
-
-# 利用 init.py 啟動, 建立所需的相關檔案
-initobj = init.Init()
-
-# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
-app = Flask(__name__)
-#app.config['download_dir'] = download_dir
-
-# 使用 session 必須要設定 secret_key
-# In order to use sessions you have to set a secret key
-# set the secret key.  keep this really secret:
-app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
-
-
-
-
-
-
-
-</t>
-<t tx="121.20160406102238.5"># coding: utf-8
+<t tx="54654.20160407094530.4"># coding: utf-8
 from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
 import random
 import math
@@ -176,19 +118,11 @@ import init
 # 二甲
 # 導入 ag100 所屬的模組
 import users.s2a.g100.scrum1_task1
-import users.s2a.g100.scrum2_task1
 # 二乙
 import s2b_files.task1.g1.task0 as bg1_0
-#g2
 import users.s2b.g2.task0
-import users.s2b.g2.scrum1_task40123235
-import users.s2b.g2.scrum2_task40123202
-import users.s2b.g2.scrum2_task40123214
-import users.s2b.g2.scrum2_task40123217
-import users.s2b.g2.scrum2_task40123226
-import users.s2b.g2.scrum2_task40123232
-import users.s2b.g2.scrum2_task40123235
-import users.s2b.g2.scrum2_task40123244
+
+
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -222,137 +156,7 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
 </t>
-<t tx="121.20160406102238.6">(uncached) amd.20160308215931.1
-Diff...
-  @app.route('/downloads/&lt;path:filename&gt;', methods=['GET', 'POST'])
-  def download(filename):
-      #return send_from_directory(download_dir, filename=filename, as_attachment=True)
-      return send_from_directory(download_dir, filename=filename)
-      
-  
-  
-- # 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
-- # 以下依照班別與組別次序註冊藍圖
-- # 二甲
-- # 註冊 ag100 的 scrum1_task1.py 檔案中的 scrum1_task1 藍圖
-- app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
-- # 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
-- app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
-- # 二乙
-- app.register_blueprint(bg1_0.bg1)
-- # 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
-- app.register_blueprint(users.s2b.g2.task0.bg2)
-- #g2
-- app.register_blueprint(users.s2b.g2.scrum1_task40123235.scrum1_task40123235)
-- app.register_blueprint(users.s2b.g2.scrum2_task40123202.scrum2_task40123202)
-- app.register_blueprint(users.s2b.g2.scrum2_task40123214.scrum2_task40123214)
-- app.register_blueprint(users.s2b.g2.scrum2_task40123217.scrum2_task40123217)
-- app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
-- app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
-- app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
-- app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
-</t>
-<t tx="121.20160406102238.7">@app.route('/downloads/&lt;path:filename&gt;', methods=['GET', 'POST'])
-def download(filename):
-    #return send_from_directory(download_dir, filename=filename, as_attachment=True)
-    return send_from_directory(download_dir, filename=filename)
-    
-
-
-</t>
-<t tx="121.20160406102238.8">@app.route('/downloads/&lt;path:filename&gt;', methods=['GET', 'POST'])
-def download(filename):
-    #return send_from_directory(download_dir, filename=filename, as_attachment=True)
-    return send_from_directory(download_dir, filename=filename)
-    
-
-
-# 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
-# 以下依照班別與組別次序註冊藍圖
-# 二甲
-# 註冊 ag100 的 scrum1_task1.py 檔案中的 scrum1_task1 藍圖
-app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
-# 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
-app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
-# 二乙
-app.register_blueprint(bg1_0.bg1)
-# 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
-app.register_blueprint(users.s2b.g2.task0.bg2)
-#g2
-app.register_blueprint(users.s2b.g2.scrum1_task40123235.scrum1_task40123235)
-app.register_blueprint(users.s2b.g2.scrum2_task40123202.scrum2_task40123202)
-app.register_blueprint(users.s2b.g2.scrum2_task40123214.scrum2_task40123214)
-app.register_blueprint(users.s2b.g2.scrum2_task40123217.scrum2_task40123217)
-app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
-app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
-app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
-app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
-</t>
-<t tx="amd.20160308180508.2">Flask 是一個 Python 的網際框架
-
-Flask 內定的靜態資料目錄, 名稱為 static
-
-Flask 內定的 templates 目錄, 名稱為 templates</t>
-<t tx="amd.20160308180556.1"></t>
-<t tx="amd.20160308180605.1">這個 Flask 程式, 在近端用
-
-python wsgi.py 
-
-就可以執行, 若在 Linux 下要用 Python3 啟動:
-
-python3 wsgi.py
-
-若在 OpenShift 雲端平台, 則有兩個條件
-
-1. 必須用 master 分支推送
-2. 必須在 .ssh 目錄下有對應的 OpenSSL private key: id_rsa 與遠端的 setting public key 對應</t>
-<t tx="amd.20160308180732.1">windows 近端執行:
-
-    python wsgi.py
-
-Linux 近端執行:
-
-    python3 wsgi.py
-    
-然後以瀏覽器開啟 http://localhost:5000
-
-在 OpenShift 端執行:
-
-1. 使用 master 分支推送到 OpenShift 的 Python3 應用程式
-
-2. OpenShift Python3 應用程式中的 setting 放入 public key, 對應的 private key 放在 .ssh 目錄下的 id_rsa 檔案中
-
-正確啟動用, 連結到 OpenShift Python3 應用程式
-
-http://simpleflask-2014openshift.rhcloud.com/ (採用 2014openshift At Gmail 管理)</t>
-<t tx="amd.20160308181031.1">@language python
-@tabwidth -4
-@others
-</t>
-<t tx="amd.20160308181042.1">@language python
-@tabwidth -4
-@others
-if __name__ == "__main__":
-    app.run()
-
-</t>
-<t tx="amd.20160308181114.1">#!/usr/bin/python
-# 導入 os 模組, 主要用來判斷是否在 OpenShift 上執行
-import os
-# 導入同目錄下的 myflaskapp.py
-import myflaskapp
-    
-# 以下開始判斷在 OpenShift 或近端執行
-if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
-    # 表示程式在雲端執行
-    application = myflaskapp.app
-else:
-    # 表示在近端執行, 以 python3 wsgi.py 執行,  若採 uwsgi 則與 Openshift 運作模式相同
-    myflaskapp.app.run(debug=True)
-    
-
-</t>
-<t tx="amd.20160308181134.1"># coding: utf-8
+<t tx="54654.20160407094530.5"># coding: utf-8
 from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
 import random
 import math
@@ -414,7 +218,147 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
 </t>
-<t tx="amd.20160308181134.2">@app.route("/")
+<t tx="amd.20160314224057.1">目前新增的 Blueprint 方法有
+
+/ag100/task0 在本地端執行: http://localhost:5000/ag100/task0
+
+/ag100/task1 在本地端執行: http://localhost:5000/ag100/task1
+
+task0 直接 return
+
+task1 則利用 render_template 傳回資料</t>
+<t tx="amd.20160314224120.1"></t>
+<t tx="amd.20160314224203.1">@language python
+@tabwidth -4
+@others
+# 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
+# 以下依照班別與組別次序註冊藍圖
+# 二甲
+# 註冊 ag100 的 scrum1_task1.py 檔案中的 scrum1_task1 藍圖
+app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
+# 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
+app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
+# 二乙
+app.register_blueprint(bg1_0.bg1)
+# 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
+app.register_blueprint(users.s2b.g2.task0.bg2)
+app.register_blueprint(users.s2b.g9.task0.bg9)
+#g2
+app.register_blueprint(users.s2b.g2.scrum1_task40123235.scrum1_task40123235)
+app.register_blueprint(users.s2b.g2.scrum2_task40123202.scrum2_task40123202)
+app.register_blueprint(users.s2b.g2.scrum2_task40123214.scrum2_task40123214)
+app.register_blueprint(users.s2b.g2.scrum2_task40123217.scrum2_task40123217)
+app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
+app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
+app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
+app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
+#g9
+app.register_blueprint(users.s2b.g9.scrum1_task40323250.scrum1_task40323250)
+if __name__ == "__main__":
+    app.run()
+
+</t>
+<t tx="amd.20160314224223.1"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+# 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+# 以下依照班別與組別導入模組
+# 二甲
+# 導入 ag100 所屬的模組
+import users.s2a.g100.scrum1_task1
+import users.s2a.g100.scrum2_task1
+# 二乙
+import s2b_files.task1.g1.task0 as bg1_0
+#g2
+import users.s2b.g2.task0
+import users.s2b.g2.scrum1_task40123235
+import users.s2b.g2.scrum2_task40123202
+import users.s2b.g2.scrum2_task40123214
+import users.s2b.g2.scrum2_task40123217
+import users.s2b.g2.scrum2_task40123226
+import users.s2b.g2.scrum2_task40123232
+import users.s2b.g2.scrum2_task40123235
+import users.s2b.g2.scrum2_task40123244
+#g9
+import users.s2b.g9.task0
+import users.s2b.g9.scrum1_task40323250
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+</t>
+<t tx="amd.20160314224223.10">@app.route('/fileuploadform')
+def fileuploadform():
+    '''
+    if not session.get('logged_in'):
+        #abort(401)
+        return redirect(url_for('login'))
+    '''
+    return "&lt;h1&gt;file upload&lt;/h1&gt;"+'''
+  &lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
+  &lt;script&gt;
+  $(document).ready(function(){
+  $('.prova').axuploader({url:'fileaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
+  finish:function(x,files)
+{
+    alert('All files have been uploaded: '+files);
+},
+  enable:true,
+  remotePath:function(){
+  return 'downloads/';
+  }
+  });
+  });
+  &lt;/script&gt;
+  &lt;div class="prova"&gt;&lt;/div&gt;
+  &lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
+  &lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
+  &lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
+  '''
+</t>
+<t tx="amd.20160314224223.11">@app.route('/downloads/&lt;path:filename&gt;', methods=['GET', 'POST'])
+def download(filename):
+    #return send_from_directory(download_dir, filename=filename, as_attachment=True)
+    return send_from_directory(download_dir, filename=filename)
+    
+
+
+</t>
+<t tx="amd.20160314224223.2">@app.route("/")
 def index():
     #這是猜數字遊戲的起始表單, 主要在產生答案, 並且將 count 歸零
     # 將標準答案存入 answer session 對應區
@@ -426,16 +370,16 @@ def index():
 
     return render_template("index.html", answer=theanswer, count=thecount)
 </t>
-<t tx="amd.20160308181134.3">@app.route('/user/&lt;name&gt;')
+<t tx="amd.20160314224223.3">@app.route('/user/&lt;name&gt;')
 def user(name):
     return render_template("user.html", name=name)
 </t>
-<t tx="amd.20160308181134.4">@app.route('/red')
+<t tx="amd.20160314224223.4">@app.route('/red')
 def red():
     # 重新導向 google
     return redirect("http://www.google.com")
 </t>
-<t tx="amd.20160308181134.5">@app.route('/guessform')
+<t tx="amd.20160314224223.5">@app.route('/guessform')
 def guessform():
     session["count"] += 1
     guess = session.get("guess")
@@ -443,7 +387,7 @@ def guessform():
     count = session.get("count")
     return render_template("guessform.html", guess=guess, answer=theanswer, count=count)
 </t>
-<t tx="amd.20160308181134.6">@app.route('/docheck', methods=['POST'])
+<t tx="amd.20160314224223.6">@app.route('/docheck', methods=['POST'])
 def docheck():
     # session[] 存資料
     # session.get() 取 session 資料
@@ -478,7 +422,7 @@ def docheck():
     return render_template("docheck.html", guess=guess)
  
 </t>
-<t tx="amd.20160308181134.7">@app.route('/option', methods=["GET", "POST"])
+<t tx="amd.20160314224223.7">@app.route('/option', methods=["GET", "POST"])
 def option():
     # 各組選出組長的方式, 若採遞增, 則各組內學號最小者為組長
     option_list1 = ["遞增", "遞減"]
@@ -493,7 +437,7 @@ def option():
 
     return render_template('option.html', option_list1=option_list1, option_list2=option_list2, option_list3=option_list3, column=column)
 </t>
-<t tx="amd.20160308181134.8">@app.route('/optionaction', methods=['POST'])
+<t tx="amd.20160314224223.8">@app.route('/optionaction', methods=['POST'])
 def optionaction():
     # 最後傳回的字串為 out_string
     out_string = ""
@@ -628,40 +572,7 @@ def optionaction():
     
 
 </t>
-<t tx="amd.20160308182756.1">根目錄為猜數字遊戲
-
-/option 則為選項示範程式</t>
-<t tx="amd.20160308205930.1">@app.route('/fileuploadform')
-def fileuploadform():
-    '''
-    if not session.get('logged_in'):
-        #abort(401)
-        return redirect(url_for('login'))
-    '''
-    return "&lt;h1&gt;file upload&lt;/h1&gt;"+'''
-  &lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
-  &lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
-  &lt;script&gt;
-  $(document).ready(function(){
-  $('.prova').axuploader({url:'fileaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
-  finish:function(x,files)
-{
-    alert('All files have been uploaded: '+files);
-},
-  enable:true,
-  remotePath:function(){
-  return 'downloads/';
-  }
-  });
-  });
-  &lt;/script&gt;
-  &lt;div class="prova"&gt;&lt;/div&gt;
-  &lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
-  &lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
-  &lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
-  '''
-</t>
-<t tx="amd.20160308210121.1">@app.route('/fileaxupload', methods=['POST'])
+<t tx="amd.20160314224223.9">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
 def fileaxupload():
     '''
@@ -684,66 +595,16 @@ def fileaxupload():
     
     
 </t>
-<t tx="amd.20160308213741.1">@language python
-@tabwidth -4
-import os
-# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
-_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
-# 設定在雲端與近端的資料儲存目錄
-if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
-    # 表示程式在雲端執行
-    data_dir = os.environ['OPENSHIFT_DATA_DIR']
-    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
-else:
-    # 表示程式在近端執行
-    data_dir = _curdir + "/local_data/"
-    static_dir = _curdir + "/static"
-@others</t>
-<t tx="amd.20160308213813.1">class Init(object):
-    @others
-</t>
-<t tx="amd.20160308213813.2">def __init__(self):
-    # hope to create downloads and images directories　
-    if not os.path.isdir(data_dir+"downloads"):
-        try:
-            os.makedirs(data_dir+"downloads")
-        except:
-            print("mkdir error")
-    if not os.path.isdir(data_dir+"images"):
-        try:
-            os.makedirs(data_dir+"images")
-        except:
-            print("mkdir error")
+<t tx="amd.20160314224239.1"></t>
+<t tx="amd.20160329201851.1">希望用 /ag100/scrum1_task1 連結來呼叫 ag100 組, scrum1 組員所寫的 task1 程式</t>
+<t tx="amd.20160329205817.1">cdw2 倉儲:
 
+https://github.com/2015fallhw/cdw2.git
 
-</t>
-<t tx="amd.20160308215931.1">@app.route('/downloads/&lt;path:filename&gt;', methods=['GET', 'POST'])
-def download(filename):
-    #return send_from_directory(download_dir, filename=filename, as_attachment=True)
-    return send_from_directory(download_dir, filename=filename)
-    
+利用 scrum_master At mde dot tw 登記的 Openshift 實現 master 分支中的 wsgi 程式
 
+http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1
 
-# 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
-# 以下依照班別與組別次序註冊藍圖
-# 二甲
-# 註冊 ag100 的 scrum1_task1.py 檔案中的 scrum1_task1 藍圖
-app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
-# 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
-app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
-# 二乙
-app.register_blueprint(bg1_0.bg1)
-# 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
-app.register_blueprint(users.s2b.g2.task0.bg2)
-#g2
-app.register_blueprint(users.s2b.g2.scrum1_task40123235.scrum1_task40123235)
-app.register_blueprint(users.s2b.g2.scrum2_task40123202.scrum2_task40123202)
-app.register_blueprint(users.s2b.g2.scrum2_task40123214.scrum2_task40123214)
-app.register_blueprint(users.s2b.g2.scrum2_task40123217.scrum2_task40123217)
-app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
-app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
-app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
-app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
 </t>
 </tnodes>
 </leo_file>
