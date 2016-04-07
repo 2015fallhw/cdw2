@@ -64,6 +64,8 @@ app.register_blueprint(bg1_0.bg1)
 app.register_blueprint(users.s2b.g1.scrum40123156_task1.scrum40123156_task1)
 # 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
 app.register_blueprint(users.s2b.g2.task0.bg2)
+app.register_blueprint(users.s2b.g5.task0.bg5)
+
 #g2
 app.register_blueprint(users.s2b.g2.scrum1_task40123235.scrum1_task40123235)
 app.register_blueprint(users.s2b.g2.scrum2_task40123202.scrum2_task40123202)
@@ -73,6 +75,17 @@ app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
 app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
 app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
 app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
+
+#g5 
+
+app.register_blueprint(users.s2b.g5.scrum1_task40323204.scrum1_task40323204)
+app.register_blueprint(users.s2b.g5.scrum1_task40323206.scrum1_task40323206)
+app.register_blueprint(users.s2b.g5.scrum1_task40323217.scrum1_task40323217)
+app.register_blueprint(users.s2b.g5.scrum1_task40323251.scrum1_task40323251)
+app.register_blueprint(users.s2b.g5.scrum1_task40323253.scrum1_task40323253)
+app.register_blueprint(users.s2b.g5.scrum1_task40323255.scrum1_task40323255)
+
+
 if __name__ == "__main__":
     app.run()
 
