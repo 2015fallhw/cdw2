@@ -26,6 +26,15 @@ import users.s2b.g2.scrum2_task40123226
 import users.s2b.g2.scrum2_task40123232
 import users.s2b.g2.scrum2_task40123235
 import users.s2b.g2.scrum2_task40123244
+#g5
+import users.s2b.g5.task0
+import users.s2b.g5.scrum1_task40323204
+import users.s2b.g5.scrum1_task40323206
+import users.s2b.g5.scrum1_task40323217
+import users.s2b.g5.scrum1_task40323251
+import users.s2b.g5.scrum1_task40323253
+import users.s2b.g5.scrum1_task40323255
+
 #g9
 import users.s2b.g9.task0
 import users.s2b.g9.scrum1_task40323250
