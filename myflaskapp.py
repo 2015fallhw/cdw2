@@ -12,6 +12,8 @@ import init
 # 導入 ag100 所屬的模組
 import users.s2a.g100.scrum1_task1
 import users.s2a.g100.scrum2_task1
+#g8
+import users.s2a.g8.ag8_40323131_task1
 # 二乙
 #g1
 import s2b_files.task1.g1.task0 as bg1_0
@@ -339,6 +341,8 @@ def download(filename):
 app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
 # 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
 app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
+#g8
+app.register_blueprint(users.s2a.g8.ag8_40323131_task1.ag8_40323131)
 # 二乙
 #g1
 app.register_blueprint(bg1_0.bg1)
