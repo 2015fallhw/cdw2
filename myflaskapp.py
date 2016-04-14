@@ -16,6 +16,12 @@ import users.s2a.g100.scrum2_task1
 #g1
 import s2b_files.task1.g1.task0 as bg1_0
 import users.s2b.g1.scrum40123156_task1
+import users.s2b.g1.scrum40123126_task1
+import users.s2b.g1.scrum40123129_task1
+import users.s2b.g1.scrum40123131_task1
+import users.s2b.g1.scrum40123133_task1
+import users.s2b.g1.scrum40123144_task1
+import users.s2b.g1.scrum40123134_task1
 #g2
 import users.s2b.g2.task0
 import users.s2b.g2.scrum1_task40123235
@@ -29,6 +35,7 @@ import users.s2b.g2.scrum2_task40123244
 #g9
 import users.s2b.g9.task0
 import users.s2b.g9.scrum1_task40323250
+import users.s2b.g9.scrum2_task40323218
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -337,6 +344,12 @@ app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
 #g1
 app.register_blueprint(bg1_0.bg1)
 app.register_blueprint(users.s2b.g1.scrum40123156_task1.scrum40123156_task1)
+app.register_blueprint(users.s2b.g1.scrum40123126_task1.scrum40123126_task1)
+app.register_blueprint(users.s2b.g1.scrum40123129_task1.scrum40123129_task1)
+app.register_blueprint(users.s2b.g1.scrum40123131_task1.scrum40123131_task1)
+app.register_blueprint(users.s2b.g1.scrum40123133_task1.scrum40123133_task1)
+app.register_blueprint(users.s2b.g1.scrum40123144_task1.scrum40123144_task1)
+app.register_blueprint(users.s2b.g1.scrum40123134_task1.scrum40123134_task1)
 # 註冊各組的程式 (第3步/總共3步, 前面1步為 import ag1)
 app.register_blueprint(users.s2b.g2.task0.bg2)
 app.register_blueprint(users.s2b.g9.task0.bg9)
