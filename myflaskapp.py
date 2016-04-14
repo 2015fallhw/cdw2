@@ -32,6 +32,10 @@ import users.s2b.g2.scrum2_task40123226
 import users.s2b.g2.scrum2_task40123232
 import users.s2b.g2.scrum2_task40123235
 import users.s2b.g2.scrum2_task40123244
+#g5
+import users.s2b.g5.scrum1_task40323204
+import users.s2b.g5.scrum2_task40323206
+
 #g9
 import users.s2b.g9.task0
 import users.s2b.g9.scrum1_task40323250
@@ -361,6 +365,10 @@ app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
 app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
 app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
 app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
+#g5
+app.register_blueprint(users.s2b.g5.scrum1_task40323204.scrum1_task40323204)
+app.register_blueprint(users.s2b.g5.scrum2_task40323206.scrum2_task40323206)
+
 #g9
 app.register_blueprint(users.s2b.g9.scrum1_task40323250.scrum1_task40323250)
 if __name__ == "__main__":
