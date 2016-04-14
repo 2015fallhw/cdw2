@@ -11,13 +11,13 @@
 <find_panel_settings/>
 <vnodes>
 <v t="amd.20160329124554.2" a="E"><vh>@path ./../../../</vh>
+<v t="leo.20160414110728.1"><vh>@auto content\bg1\scrum40123134.md</vh></v>
 <v t="amd.20160329164739.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="amd.20160329164739.2"><vh>@button gh-pages pelican</vh></v>
 </v>
 <v t="amd.20160329163719.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="amd.20160329163719.2"><vh>@button local pelican</vh></v>
 </v>
-<v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="leo.20160414102248.1" a="E"><vh>@path bg1</vh>
 <v t="amd.20160408224929.1"><vh>@edit scrum40123134.md</vh></v>
@@ -27,7 +27,6 @@
 </vnodes>
 <tnodes>
 <t tx="amd.20160329124554.2"></t>
-<t tx="amd.20160329124849.1"></t>
 <t tx="amd.20160329124903.1"></t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
