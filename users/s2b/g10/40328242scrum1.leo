@@ -21,7 +21,6 @@
 </v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="amd.20160329174131.1"><vh>@path ag100</vh></v>
 <v t="amd.20160329174139.1"><vh>@clean 40328242scrum1-20160406.md</vh></v>
 </v>
 </v>
@@ -46,7 +45,6 @@ os.system("pelican content -o post -s publishconf.py")
 g.es("admin pelican 執行完畢")
 
 </t>
-<t tx="amd.20160329174131.1"></t>
 <t tx="amd.20160329174139.1">@language md
 Title: 40328242scrum1-回報 bg10 scrum1 初步繪圖主機與連結
 Category: bg10
