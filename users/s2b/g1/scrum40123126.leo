@@ -12,7 +12,7 @@
 <vnodes>
 <v t="amd.20160329124554.2" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160329164739.1" a="E"><vh>@path content</vh>
-<v t="amd.20160329164739.2"><vh>@path ag100</vh></v>
+<v t="amd.20160329164739.2"><vh>@path bg1</vh></v>
 <v t="amd.20160329124849.1"><vh>@clean scrum1-bg1-40123126.md</vh></v>
 <v t="amd.20160329124903.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329163719.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
@@ -27,18 +27,18 @@
 <tnodes>
 <t tx="amd.20160329124554.2"></t>
 <t tx="amd.20160329124849.1">@language md
-Title: 40123231scrum1-回報 g1 scrum1 初步繪圖主機與連結
-Category: bg2
+Title: 40123126scrum1-回報 g1 scrum1 初步繪圖主機與連結
+Category: bg1
 Tags: scrum1, task1, 40123126
 Author: kmol
 @others
 請注意: 這個 .md 檔案應該要放到 s2b/g1目錄中, 而且用學號作為 Tags 分類讓使用者可以較容易透過 Tags 找到某一學員所提供的所有內容.
 
-bg2 已經在 cdw2 倉儲中的 master 分支建立對應的組員 g1.leo 並且完成 Task1 的繪圖藍圖建立與註冊
+bg1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 g1.leo 並且完成 Task1 的繪圖藍圖建立與註冊
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-目前所完成的 OpenShift 對應繪圖連結為:&lt;a href="http://cdw2bg1-40123156.rhcloud.com/"&gt;http://cdw2bg1-40123156.rhcloud.com/&lt;/a&gt;
+目前所完成的 OpenShift 對應繪圖連結為:&lt;a href="http://cdw2bg1-40123156.rhcloud.com/"&gt;http://cdw2bg1-40123156.rhcloud.com/bg1/scrum40123126_task1&lt;/a&gt;
 
 
 其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
