@@ -1,16 +1,5 @@
 result = []
-with open("./../../../2b_files/task0/2016_cd_2b_3.txt", 'r') as f:
-    content = f.readlines()
-    for i in range(len(content)):
-        for line in content[i].splitlines():
-            result.append(list(line.split(",")))
-group_sorted = []
-for i in range(len(result)):
-    group_list = sorted(list(filter(None, result[i])))
-    group_sorted.append(group_list)
-final_result = sorted(group_sorted)
-g.es("分組結果:", final_result)
-spring_2b =  final_result
+
 
 # 第 i 組學號數列 為 spring_2a[i-1], i 從 1 到 11 共有 11 組
 # 若要先照排依組序排座位, 且空字串由下一組可用學號補上
