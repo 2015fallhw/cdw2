@@ -13,6 +13,7 @@
 <v t="amd.20160314224057.1" a="E"><vh>master 分支 flask 程式開發</vh>
 <v t="amd.20160329201851.1"><vh>ag100 組程式規畫</vh></v>
 <v t="amd.20160314224303.1"><vh>@edit ag8_40323131_task1.py</vh></v>
+<v t="123.20160415203412.1"><vh>@edit ag8_40323131_task1b.py</vh></v>
 <v t="amd.20160314224120.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160314224203.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160314224223.1"><vh>myflaskapp declarations</vh></v>
@@ -246,6 +247,7 @@ app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
 app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
 #g8
 app.register_blueprint(users.s2a.g8.ag8_40323131_task1.ag8_40323131)
+app.register_blueprint(users.s2a.g8.ag8_40323131_task1b.ag8_40323131b)
 # 二乙
 #g1
 app.register_blueprint(bg1_0.bg1)
@@ -290,6 +292,7 @@ import users.s2a.g100.scrum1_task1
 import users.s2a.g100.scrum2_task1
 #g8
 import users.s2a.g8.ag8_40323131_task1
+import users.s2a.g8.ag8_40323131_task1b
 # 二乙
 #g1
 import s2b_files.task1.g1.task0 as bg1_0
