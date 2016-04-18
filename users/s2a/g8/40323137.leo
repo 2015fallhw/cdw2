@@ -12,10 +12,9 @@
 <v t="amd.20160329205817.1"><vh>ag100 註解</vh></v>
 <v t="amd.20160314224057.1" a="E"><vh>master 分支 flask 程式開發</vh>
 <v t="amd.20160329201851.1"><vh>ag100 組程式規畫</vh></v>
-<v t="amd.20160314224303.1"><vh>@edit ag8_40323131_task1.py</vh></v>
-<v t="leo.20160418094249.1"><vh>@edit ag8_40323131_task1d.py</vh></v>
-<v t="123.20160415203412.1"><vh>@edit ag8_40323131_task1b.py</vh></v>
-<v t="123.20160415230242.1"><vh>@edit ag8_40323131_task1c.py</vh></v>
+<v t="amd.20160314224303.1"><vh>@edit ag8_40323137_task1.py</vh></v>
+<v t="leo.20160417182819.1"><vh>@edit ag8_40323137_task2.py</vh></v>
+<v t="leo.20160417195936.1"><vh>@edit ag8_40323137_task3.py</vh></v>
 <v t="amd.20160314224120.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160314224203.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160314224223.1"><vh>myflaskapp declarations</vh></v>
@@ -33,16 +32,28 @@
 <v t="amd.20160314224239.1"><vh>@path templates</vh></v>
 </v>
 </v>
-<v t="54654.20160407094530.2" a="E"><vh>Recovered Nodes</vh>
+<v t="54654.20160407094530.2"><vh>Recovered Nodes</vh>
 <v t="54654.20160407094530.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
 <v t="54654.20160407094530.4"><vh>old:myflaskapp declarations</vh></v>
 <v t="54654.20160407094530.5"><vh>new:myflaskapp declarations</vh></v>
 </v>
 </v>
-<v t="leo.20160411105403.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20160411105403.2"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
-<v t="leo.20160411105403.3"><vh>old:myflaskapp declarations</vh></v>
-<v t="leo.20160411105403.4"><vh>new:myflaskapp declarations</vh></v>
+<v t="amd.20160412000038.2"><vh>Recovered Nodes</vh>
+<v t="amd.20160412000038.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
+<v t="amd.20160412000038.4"><vh>old:myflaskapp declarations</vh></v>
+<v t="amd.20160412000038.5"><vh>new:myflaskapp declarations</vh></v>
+</v>
+</v>
+<v t="amd.20160414164039.2"><vh>Recovered Nodes</vh>
+<v t="amd.20160414164039.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
+<v t="amd.20160414164039.4"><vh>old:myflaskapp declarations</vh></v>
+<v t="amd.20160414164039.5"><vh>new:myflaskapp declarations</vh></v>
+</v>
+</v>
+<v t="leo.20160417170423.2"><vh>Recovered Nodes</vh>
+<v t="leo.20160417170423.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
+<v t="leo.20160417170423.4"><vh>old:myflaskapp declarations</vh></v>
+<v t="leo.20160417170423.5"><vh>new:myflaskapp declarations</vh></v>
 </v>
 </v>
 </vnodes>
@@ -248,13 +259,17 @@ app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
 # 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
 app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
 #g8
-app.register_blueprint(users.s2a.g8.ag8_40323131_task1.ag8_40323131)
-app.register_blueprint(users.s2a.g8.ag8_40323131_task1b.ag8_40323131b)
-app.register_blueprint(users.s2a.g8.ag8_40323131_task1c.ag8_40323131c)
-app.register_blueprint(users.s2a.g8.ag8_40323131_task1d.ag8_40323131)
 app.register_blueprint(users.s2a.g8.ag8_40323137_task1.ag8_40323137)
 app.register_blueprint(users.s2a.g8.ag8_40323137_task2.ag8_40323137_2)
 app.register_blueprint(users.s2a.g8.ag8_40323137_task3.ag8_40323137_3)
+#g9
+app.register_blueprint(users.s2a.g9.ag9.ag9)
+app.register_blueprint(users.s2a.g9.ag9_40323132_task1.ag9_40323132)
+app.register_blueprint(users.s2a.g9.ag9_40323125_task1.ag9_40323125)
+app.register_blueprint(users.s2a.g9.ag9_40323126_task1.ag9_40323126)
+app.register_blueprint(users.s2a.g9.ag9_40323153_task1.ag9_40323153)
+app.register_blueprint(users.s2a.g9.ag9_40323149_task1.ag9_40323149)
+app.register_blueprint(users.s2a.g9.ag9_40323150_task1.ag9_40323150)
 # 二乙
 #g1
 app.register_blueprint(bg1_0.bg1)
@@ -277,8 +292,19 @@ app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
 app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
 app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
 app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
+#g6
+app.register_blueprint(users.s2b.g6.scrum1_task40323210.scrum1_task40323210)
+#g7
+app.register_blueprint(users.s2b.g7.scrum1_task40323212.scrum1_task40323212)
+app.register_blueprint(users.s2b.g7.scrum2_task40323216.scrum2_task40323216)
+app.register_blueprint(users.s2b.g7.scrum2_task40323236.scrum2_task40323236)
 #g9
 app.register_blueprint(users.s2b.g9.scrum1_task40323250.scrum1_task40323250)
+app.register_blueprint(users.s2b.g9.scrum2_task40323218.scrum2_task40323218)
+app.register_blueprint(users.s2b.g9.scrum4_task40323231.scrum4_task40323231)
+app.register_blueprint(users.s2b.g9.scrum3_task40323214.scrum3_task40323214)
+app.register_blueprint(users.s2b.g9.scrum5_task40323230.scrum5_task40323230)
+app.register_blueprint(users.s2b.g9.scrum6_task40323233.scrum6_task40323233)
 if __name__ == "__main__":
     app.run()
 
@@ -298,13 +324,17 @@ import init
 import users.s2a.g100.scrum1_task1
 import users.s2a.g100.scrum2_task1
 #g8
-import users.s2a.g8.ag8_40323131_task1
-import users.s2a.g8.ag8_40323131_task1b
-import users.s2a.g8.ag8_40323131_task1c
-import users.s2a.g8.ag8_40323131_task1d
 import users.s2a.g8.ag8_40323137_task1
 import users.s2a.g8.ag8_40323137_task2
 import users.s2a.g8.ag8_40323137_task3
+#g9
+import users.s2a.g9.ag9
+import users.s2a.g9.ag9_40323132_task1
+import users.s2a.g9.ag9_40323125_task1
+import users.s2a.g9.ag9_40323126_task1
+import users.s2a.g9.ag9_40323153_task1
+import users.s2a.g9.ag9_40323149_task1
+import users.s2a.g9.ag9_40323150_task1
 # 二乙
 #g1
 import s2b_files.task1.g1.task0 as bg1_0
@@ -325,9 +355,22 @@ import users.s2b.g2.scrum2_task40123226
 import users.s2b.g2.scrum2_task40123232
 import users.s2b.g2.scrum2_task40123235
 import users.s2b.g2.scrum2_task40123244
+#g6
+import users.s2b.g6.task0
+import users.s2b.g6.scrum1_task40323210
+#g7
+import users.s2b.g7.task0
+import users.s2b.g7.scrum1_task40323212
+import users.s2b.g7.scrum2_task40323216
+import users.s2b.g7.scrum2_task40323236
 #g9
 import users.s2b.g9.task0
 import users.s2b.g9.scrum1_task40323250
+import users.s2b.g9.scrum2_task40323218
+import users.s2b.g9.scrum3_task40323214
+import users.s2b.g9.scrum4_task40323231
+import users.s2b.g9.scrum5_task40323230
+import users.s2b.g9.scrum6_task40323233
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -647,8 +690,8 @@ https://github.com/2015fallhw/cdw2.git
 http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1
 
 </t>
-<t tx="leo.20160411105403.1"></t>
-<t tx="leo.20160411105403.2">(uncached) amd.20160314224223.1
+<t tx="amd.20160412000038.2"></t>
+<t tx="amd.20160412000038.3">(uncached) amd.20160314224223.1
 Diff...
   # coding: utf-8
   from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
@@ -720,7 +763,7 @@ Diff...
   
   
 </t>
-<t tx="leo.20160411105403.3"># coding: utf-8
+<t tx="amd.20160412000038.4"># coding: utf-8
 from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
 import random
 import math
@@ -782,7 +825,7 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
 </t>
-<t tx="leo.20160411105403.4"># coding: utf-8
+<t tx="amd.20160412000038.5"># coding: utf-8
 from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
 import random
 import math
@@ -819,6 +862,535 @@ import users.s2b.g2.scrum2_task40123244
 #g9
 import users.s2b.g9.task0
 import users.s2b.g9.scrum1_task40323250
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+</t>
+<t tx="amd.20160414164039.2"></t>
+<t tx="amd.20160414164039.3">(uncached) amd.20160314224223.1
+Diff...
+  # coding: utf-8
+  from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+  import random
+  import math
+  import os
+  # init.py 為自行建立的起始物件
+  import init
+  
+  # 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+  # 以下依照班別與組別導入模組
+  # 二甲
+  # 導入 ag100 所屬的模組
+  import users.s2a.g100.scrum1_task1
+  import users.s2a.g100.scrum2_task1
+- #g9
+- import users.s2a.g9.ag9
+- import users.s2a.g9.ag9_40323132_task1
+- import users.s2a.g9.ag9_40323125_task1
+- import users.s2a.g9.ag9_40323126_task1
+- import users.s2a.g9.ag9_40323153_task1
+- import users.s2a.g9.ag9_40323149_task1
+- import users.s2a.g9.ag9_40323150_task1
+  # 二乙
+  #g1
+  import s2b_files.task1.g1.task0 as bg1_0
+  import users.s2b.g1.scrum40123156_task1
+  import users.s2b.g1.scrum40123126_task1
+  import users.s2b.g1.scrum40123129_task1
+  import users.s2b.g1.scrum40123131_task1
+  import users.s2b.g1.scrum40123133_task1
+  import users.s2b.g1.scrum40123144_task1
+  import users.s2b.g1.scrum40123134_task1
+  #g2
+  import users.s2b.g2.task0
+  import users.s2b.g2.scrum1_task40123235
+  import users.s2b.g2.scrum2_task40123202
+  import users.s2b.g2.scrum2_task40123214
+  import users.s2b.g2.scrum2_task40123217
+  import users.s2b.g2.scrum2_task40123226
+  import users.s2b.g2.scrum2_task40123232
+  import users.s2b.g2.scrum2_task40123235
+  import users.s2b.g2.scrum2_task40123244
+- #g6
+- import users.s2b.g6.task0
+- import users.s2b.g6.scrum1_task40323210
+- #g7
+- import users.s2b.g7.task0
+- import users.s2b.g7.scrum1_task40323212
+- import users.s2b.g7.scrum2_task40323216
+- import users.s2b.g7.scrum2_task40323236
+  #g9
+  import users.s2b.g9.task0
+  import users.s2b.g9.scrum1_task40323250
+- import users.s2b.g9.scrum2_task40323218
+- import users.s2b.g9.scrum3_task40323214
+- import users.s2b.g9.scrum4_task40323231
+  # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+  _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+  # 設定在雲端與近端的資料儲存目錄
+  if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+      # 表示程式在雲端執行
+      data_dir = os.environ['OPENSHIFT_DATA_DIR']
+      static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+      download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+  else:
+      # 表示程式在近端執行
+      data_dir = _curdir + "/local_data/"
+      static_dir = _curdir + "/static"
+      download_dir = _curdir + "/local_data/downloads/"
+  
+  # 利用 init.py 啟動, 建立所需的相關檔案
+  initobj = init.Init()
+  
+  # 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+  app = Flask(__name__)
+  #app.config['download_dir'] = download_dir
+  
+  # 使用 session 必須要設定 secret_key
+  # In order to use sessions you have to set a secret key
+  # set the secret key.  keep this really secret:
+  app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+  
+  
+  
+  
+  
+  
+  
+</t>
+<t tx="amd.20160414164039.4"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+# 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+# 以下依照班別與組別導入模組
+# 二甲
+# 導入 ag100 所屬的模組
+import users.s2a.g100.scrum1_task1
+import users.s2a.g100.scrum2_task1
+# 二乙
+#g1
+import s2b_files.task1.g1.task0 as bg1_0
+import users.s2b.g1.scrum40123156_task1
+import users.s2b.g1.scrum40123126_task1
+import users.s2b.g1.scrum40123129_task1
+import users.s2b.g1.scrum40123131_task1
+import users.s2b.g1.scrum40123133_task1
+import users.s2b.g1.scrum40123144_task1
+import users.s2b.g1.scrum40123134_task1
+#g2
+import users.s2b.g2.task0
+import users.s2b.g2.scrum1_task40123235
+import users.s2b.g2.scrum2_task40123202
+import users.s2b.g2.scrum2_task40123214
+import users.s2b.g2.scrum2_task40123217
+import users.s2b.g2.scrum2_task40123226
+import users.s2b.g2.scrum2_task40123232
+import users.s2b.g2.scrum2_task40123235
+import users.s2b.g2.scrum2_task40123244
+#g9
+import users.s2b.g9.task0
+import users.s2b.g9.scrum1_task40323250
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+</t>
+<t tx="amd.20160414164039.5"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+# 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+# 以下依照班別與組別導入模組
+# 二甲
+# 導入 ag100 所屬的模組
+import users.s2a.g100.scrum1_task1
+import users.s2a.g100.scrum2_task1
+#g9
+import users.s2a.g9.ag9
+import users.s2a.g9.ag9_40323132_task1
+import users.s2a.g9.ag9_40323125_task1
+import users.s2a.g9.ag9_40323126_task1
+import users.s2a.g9.ag9_40323153_task1
+import users.s2a.g9.ag9_40323149_task1
+import users.s2a.g9.ag9_40323150_task1
+# 二乙
+#g1
+import s2b_files.task1.g1.task0 as bg1_0
+import users.s2b.g1.scrum40123156_task1
+import users.s2b.g1.scrum40123126_task1
+import users.s2b.g1.scrum40123129_task1
+import users.s2b.g1.scrum40123131_task1
+import users.s2b.g1.scrum40123133_task1
+import users.s2b.g1.scrum40123144_task1
+import users.s2b.g1.scrum40123134_task1
+#g2
+import users.s2b.g2.task0
+import users.s2b.g2.scrum1_task40123235
+import users.s2b.g2.scrum2_task40123202
+import users.s2b.g2.scrum2_task40123214
+import users.s2b.g2.scrum2_task40123217
+import users.s2b.g2.scrum2_task40123226
+import users.s2b.g2.scrum2_task40123232
+import users.s2b.g2.scrum2_task40123235
+import users.s2b.g2.scrum2_task40123244
+#g6
+import users.s2b.g6.task0
+import users.s2b.g6.scrum1_task40323210
+#g7
+import users.s2b.g7.task0
+import users.s2b.g7.scrum1_task40323212
+import users.s2b.g7.scrum2_task40323216
+import users.s2b.g7.scrum2_task40323236
+#g9
+import users.s2b.g9.task0
+import users.s2b.g9.scrum1_task40323250
+import users.s2b.g9.scrum2_task40323218
+import users.s2b.g9.scrum3_task40323214
+import users.s2b.g9.scrum4_task40323231
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20160417170423.2"></t>
+<t tx="leo.20160417170423.3">(uncached) amd.20160314224223.1
+Diff...
+  # coding: utf-8
+  from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+  import random
+  import math
+  import os
+  # init.py 為自行建立的起始物件
+  import init
+  
+  # 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+  # 以下依照班別與組別導入模組
+  # 二甲
+  # 導入 ag100 所屬的模組
+  import users.s2a.g100.scrum1_task1
+  import users.s2a.g100.scrum2_task1
+- #g8
+- import users.s2a.g8.ag8_40323137_task1
+  #g9
+  import users.s2a.g9.ag9
+  import users.s2a.g9.ag9_40323132_task1
+  import users.s2a.g9.ag9_40323125_task1
+  import users.s2a.g9.ag9_40323126_task1
+  import users.s2a.g9.ag9_40323153_task1
+  import users.s2a.g9.ag9_40323149_task1
+  import users.s2a.g9.ag9_40323150_task1
+  # 二乙
+  #g1
+  import s2b_files.task1.g1.task0 as bg1_0
+  import users.s2b.g1.scrum40123156_task1
+  import users.s2b.g1.scrum40123126_task1
+  import users.s2b.g1.scrum40123129_task1
+  import users.s2b.g1.scrum40123131_task1
+  import users.s2b.g1.scrum40123133_task1
+  import users.s2b.g1.scrum40123144_task1
+  import users.s2b.g1.scrum40123134_task1
+  #g2
+  import users.s2b.g2.task0
+  import users.s2b.g2.scrum1_task40123235
+  import users.s2b.g2.scrum2_task40123202
+  import users.s2b.g2.scrum2_task40123214
+  import users.s2b.g2.scrum2_task40123217
+  import users.s2b.g2.scrum2_task40123226
+  import users.s2b.g2.scrum2_task40123232
+  import users.s2b.g2.scrum2_task40123235
+  import users.s2b.g2.scrum2_task40123244
+  #g6
+  import users.s2b.g6.task0
+  import users.s2b.g6.scrum1_task40323210
+  #g7
+  import users.s2b.g7.task0
+  import users.s2b.g7.scrum1_task40323212
+  import users.s2b.g7.scrum2_task40323216
+  import users.s2b.g7.scrum2_task40323236
+  #g9
+  import users.s2b.g9.task0
+  import users.s2b.g9.scrum1_task40323250
+  import users.s2b.g9.scrum2_task40323218
+  import users.s2b.g9.scrum3_task40323214
+  import users.s2b.g9.scrum4_task40323231
+- import users.s2b.g9.scrum5_task40323230
+- import users.s2b.g9.scrum6_task40323233
+  # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+  _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+  # 設定在雲端與近端的資料儲存目錄
+  if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+      # 表示程式在雲端執行
+      data_dir = os.environ['OPENSHIFT_DATA_DIR']
+      static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+      download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+  else:
+      # 表示程式在近端執行
+      data_dir = _curdir + "/local_data/"
+      static_dir = _curdir + "/static"
+      download_dir = _curdir + "/local_data/downloads/"
+  
+  # 利用 init.py 啟動, 建立所需的相關檔案
+  initobj = init.Init()
+  
+  # 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+  app = Flask(__name__)
+  #app.config['download_dir'] = download_dir
+  
+  # 使用 session 必須要設定 secret_key
+  # In order to use sessions you have to set a secret key
+  # set the secret key.  keep this really secret:
+  app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+  
+  
+  
+  
+  
+  
+  
+</t>
+<t tx="leo.20160417170423.4"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+# 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+# 以下依照班別與組別導入模組
+# 二甲
+# 導入 ag100 所屬的模組
+import users.s2a.g100.scrum1_task1
+import users.s2a.g100.scrum2_task1
+#g9
+import users.s2a.g9.ag9
+import users.s2a.g9.ag9_40323132_task1
+import users.s2a.g9.ag9_40323125_task1
+import users.s2a.g9.ag9_40323126_task1
+import users.s2a.g9.ag9_40323153_task1
+import users.s2a.g9.ag9_40323149_task1
+import users.s2a.g9.ag9_40323150_task1
+# 二乙
+#g1
+import s2b_files.task1.g1.task0 as bg1_0
+import users.s2b.g1.scrum40123156_task1
+import users.s2b.g1.scrum40123126_task1
+import users.s2b.g1.scrum40123129_task1
+import users.s2b.g1.scrum40123131_task1
+import users.s2b.g1.scrum40123133_task1
+import users.s2b.g1.scrum40123144_task1
+import users.s2b.g1.scrum40123134_task1
+#g2
+import users.s2b.g2.task0
+import users.s2b.g2.scrum1_task40123235
+import users.s2b.g2.scrum2_task40123202
+import users.s2b.g2.scrum2_task40123214
+import users.s2b.g2.scrum2_task40123217
+import users.s2b.g2.scrum2_task40123226
+import users.s2b.g2.scrum2_task40123232
+import users.s2b.g2.scrum2_task40123235
+import users.s2b.g2.scrum2_task40123244
+#g6
+import users.s2b.g6.task0
+import users.s2b.g6.scrum1_task40323210
+#g7
+import users.s2b.g7.task0
+import users.s2b.g7.scrum1_task40323212
+import users.s2b.g7.scrum2_task40323216
+import users.s2b.g7.scrum2_task40323236
+#g9
+import users.s2b.g9.task0
+import users.s2b.g9.scrum1_task40323250
+import users.s2b.g9.scrum2_task40323218
+import users.s2b.g9.scrum3_task40323214
+import users.s2b.g9.scrum4_task40323231
+# 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+_curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+# 設定在雲端與近端的資料儲存目錄
+if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
+    # 表示程式在雲端執行
+    data_dir = os.environ['OPENSHIFT_DATA_DIR']
+    static_dir = os.environ['OPENSHIFT_REPO_DIR']+"/static"
+    download_dir = os.environ['OPENSHIFT_DATA_DIR']+"/downloads"
+else:
+    # 表示程式在近端執行
+    data_dir = _curdir + "/local_data/"
+    static_dir = _curdir + "/static"
+    download_dir = _curdir + "/local_data/downloads/"
+
+# 利用 init.py 啟動, 建立所需的相關檔案
+initobj = init.Init()
+
+# 必須先將 download_dir 設為 static_folder, 然後才可以用於 download 方法中的 app.static_folder 的呼叫
+app = Flask(__name__)
+#app.config['download_dir'] = download_dir
+
+# 使用 session 必須要設定 secret_key
+# In order to use sessions you have to set a secret key
+# set the secret key.  keep this really secret:
+app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20160417170423.5"># coding: utf-8
+from flask import Flask, send_from_directory, request, redirect, render_template, session, make_response
+import random
+import math
+import os
+# init.py 為自行建立的起始物件
+import init
+
+# 導入各組的程式 (第2步/總共3步, 前面1步利用 Blueprint 建立於 users 目錄下的 task0.py 中的連結對應方法)
+# 以下依照班別與組別導入模組
+# 二甲
+# 導入 ag100 所屬的模組
+import users.s2a.g100.scrum1_task1
+import users.s2a.g100.scrum2_task1
+#g8
+import users.s2a.g8.ag8_40323137_task1
+#g9
+import users.s2a.g9.ag9
+import users.s2a.g9.ag9_40323132_task1
+import users.s2a.g9.ag9_40323125_task1
+import users.s2a.g9.ag9_40323126_task1
+import users.s2a.g9.ag9_40323153_task1
+import users.s2a.g9.ag9_40323149_task1
+import users.s2a.g9.ag9_40323150_task1
+# 二乙
+#g1
+import s2b_files.task1.g1.task0 as bg1_0
+import users.s2b.g1.scrum40123156_task1
+import users.s2b.g1.scrum40123126_task1
+import users.s2b.g1.scrum40123129_task1
+import users.s2b.g1.scrum40123131_task1
+import users.s2b.g1.scrum40123133_task1
+import users.s2b.g1.scrum40123144_task1
+import users.s2b.g1.scrum40123134_task1
+#g2
+import users.s2b.g2.task0
+import users.s2b.g2.scrum1_task40123235
+import users.s2b.g2.scrum2_task40123202
+import users.s2b.g2.scrum2_task40123214
+import users.s2b.g2.scrum2_task40123217
+import users.s2b.g2.scrum2_task40123226
+import users.s2b.g2.scrum2_task40123232
+import users.s2b.g2.scrum2_task40123235
+import users.s2b.g2.scrum2_task40123244
+#g6
+import users.s2b.g6.task0
+import users.s2b.g6.scrum1_task40323210
+#g7
+import users.s2b.g7.task0
+import users.s2b.g7.scrum1_task40323212
+import users.s2b.g7.scrum2_task40323216
+import users.s2b.g7.scrum2_task40323236
+#g9
+import users.s2b.g9.task0
+import users.s2b.g9.scrum1_task40323250
+import users.s2b.g9.scrum2_task40323218
+import users.s2b.g9.scrum3_task40323214
+import users.s2b.g9.scrum4_task40323231
+import users.s2b.g9.scrum5_task40323230
+import users.s2b.g9.scrum6_task40323233
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
