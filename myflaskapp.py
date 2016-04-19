@@ -12,6 +12,15 @@ import init
 # 導入 ag100 所屬的模組
 import users.s2a.g100.scrum1_task1
 import users.s2a.g100.scrum2_task1
+#g7
+import users.s2a.g7.ag7_task1
+import users.s2a.g7.a40123149_task1
+import users.s2a.g7.a40023234_task1
+import users.s2a.g7.a40123119_task1
+import users.s2a.g7.a40123141_task1
+import users.s2a.g7.a40123216_task1
+import users.s2a.g7.a40123227_task1
+import users.s2a.g7.a40123255_task1
 #g6
 import users.s2a.g6.ag6
 import users.s2a.g6.ag6_40323112_task1
@@ -48,14 +57,6 @@ import users.s2b.g2.scrum2_task40123226
 import users.s2b.g2.scrum2_task40123232
 import users.s2b.g2.scrum2_task40123235
 import users.s2b.g2.scrum2_task40123244
-#g6
-import users.s2b.g6.task0
-import users.s2b.g6.scrum1_task40323210
-#g7
-import users.s2b.g7.task0
-import users.s2b.g7.scrum1_task40323212
-import users.s2b.g7.scrum2_task40323216
-import users.s2b.g7.scrum2_task40323236
 #g9
 import users.s2b.g9.task0
 import users.s2b.g9.scrum1_task40323250
@@ -368,6 +369,15 @@ def download(filename):
 app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
 # 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
 app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
+#g7
+app.register_blueprint(users.s2a.g7.ag7_task1.ag7_task1)
+app.register_blueprint(users.s2a.g7.a40123149_task1.a40123149_task1)
+app.register_blueprint(users.s2a.g7.a40023234_task1.a40023234_task1)
+app.register_blueprint(users.s2a.g7.a40123119_task1.a40123119_task1)
+app.register_blueprint(users.s2a.g7.a40123141_task1.a40123141_task1)
+app.register_blueprint(users.s2a.g7.a40123216_task1.a40123216_task1)
+app.register_blueprint(users.s2a.g7.a40123227_task1.a40123227_task1)
+app.register_blueprint(users.s2a.g7.a40123255_task1.a40123255_task1)
 #g6
 app.register_blueprint(users.s2a.g6.ag6.ag6)
 app.register_blueprint(users.s2a.g6.ag6_40323112_task1.ag6_40323112)
@@ -406,12 +416,6 @@ app.register_blueprint(users.s2b.g2.scrum2_task40123226.scrum2_task40123226)
 app.register_blueprint(users.s2b.g2.scrum2_task40123232.scrum2_task40123232)
 app.register_blueprint(users.s2b.g2.scrum2_task40123235.scrum2_task40123235)
 app.register_blueprint(users.s2b.g2.scrum2_task40123244.scrum2_task40123244)
-#g6
-app.register_blueprint(users.s2b.g6.scrum1_task40323210.scrum1_task40323210)
-#g7
-app.register_blueprint(users.s2b.g7.scrum1_task40323212.scrum1_task40323212)
-app.register_blueprint(users.s2b.g7.scrum2_task40323216.scrum2_task40323216)
-app.register_blueprint(users.s2b.g7.scrum2_task40323236.scrum2_task40323236)
 #g9
 app.register_blueprint(users.s2b.g9.scrum1_task40323250.scrum1_task40323250)
 app.register_blueprint(users.s2b.g9.scrum2_task40323218.scrum2_task40323218)
