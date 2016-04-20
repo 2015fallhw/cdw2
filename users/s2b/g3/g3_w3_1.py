@@ -1,5 +1,16 @@
 result = []
-
+with open("./../../../2b_files/task0/2016_cd_2b_3.txt", 'r') as f:
+    content = f.readlines()
+    for i in range(len(content)):
+        for line in content[i].splitlines():
+            result.append(list(line.split(",")))
+group_sorted = []
+for i in range(len(result)):
+    group_list = sorted(list(filter(None, result[i])))
+    group_sorted.append(group_list)
+final_result = sorted(group_sorted)
+g.es("分組結果:", final_result)
+spring_2b =  final_result
 
 # 第 i 組學號數列 為 spring_2a[i-1], i 從 1 到 11 共有 11 組
 # 若要先照排依組序排座位, 且空字串由下一組可用學號補上
@@ -56,7 +67,6 @@ from itertools import zip_longest
 
 '''
 The reverse situation occurs when the arguments are already in a list or tuple but need to be unpacked for a function call requiring separate positional arguments. For instance, the built-in range() function expects separate start and stop arguments. If they are not available separately, write the function call with the *-operator to unpack the arguments out of a list or tuple: 
-
 https://docs.python.org/3/tutorial/controlflow.html#tut-unpacking-arguments
 '''
 
@@ -74,5 +84,4 @@ for row in range(len(spring_2b_final_seat)):
         g.es("<td>", spring_2b_final_seat[row][i], "</td>")
     g.es("</tr>")
 g.es("</table>")
-
 
