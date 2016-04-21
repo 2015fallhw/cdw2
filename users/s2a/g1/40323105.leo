@@ -10,6 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
+<<<<<<< HEAD
 <v t="amd.20160315155858.1" a="E"><vh>我的上課筆記</vh>
 <v t="amd.20160315155841.1"><vh>@edit 2016spring_cd_w3.txt</vh></v>
 </v>
@@ -52,10 +53,26 @@
 <v t="leo.20160418082724.2"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
 <v t="leo.20160418082724.3"><vh>old:myflaskapp declarations</vh></v>
 <v t="leo.20160418082724.4"><vh>new:myflaskapp declarations</vh></v>
+=======
+<v t="amd.20160329211330.1"><vh>因為位於 users/s2a/g1 目錄, 必須跳三層才到外圍</vh></v>
+<v t="amd.20160329124554.2" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160329164739.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
+<v t="amd.20160329164739.2"><vh>@button gh-pages pelican</vh></v>
+</v>
+<v t="amd.20160329163719.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="amd.20160329163719.2"><vh>@button local pelican</vh></v>
+</v>
+<v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
+<v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
+<v t="amd.20160329174131.1" a="E"><vh>@path ag1</vh>
+<v t="amd.20160329174139.1"><vh>@edit 40323105.md</vh></v>
+</v>
+>>>>>>> eea56ee15d4e18ec4ec3c5e0c73288984d7f1366
 </v>
 </v>
 </vnodes>
 <tnodes>
+<<<<<<< HEAD
 <t tx="amd.20160314224057.1">目前新增的 Blueprint 方法有
 
 /ag100/task0 在本地端執行: http://localhost:5000/ag100/task0
@@ -882,5 +899,28 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
 </t>
+=======
+<t tx="amd.20160329124554.2"></t>
+<t tx="amd.20160329124849.1"></t>
+<t tx="amd.20160329124903.1"></t>
+<t tx="amd.20160329163719.1"></t>
+<t tx="amd.20160329163719.2">@language python
+import os
+#os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
+os.system("pelican content -o post -s local_publishconf.py")
+g.es("admin pelican 近端執行完畢")
+
+
+</t>
+<t tx="amd.20160329164739.1"></t>
+<t tx="amd.20160329164739.2">@language python
+import os
+os.system("pelican content -o post -s publishconf.py")
+g.es("admin pelican 執行完畢")
+
+</t>
+<t tx="amd.20160329174131.1"></t>
+<t tx="amd.20160329211330.1"></t>
+>>>>>>> eea56ee15d4e18ec4ec3c5e0c73288984d7f1366
 </tnodes>
 </leo_file>
