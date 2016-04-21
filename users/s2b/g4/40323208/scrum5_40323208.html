@@ -123,7 +123,7 @@ mychain = chain()
 # 畫 G
 # 上半部
 # 左邊中間垂直起點, 圓心位於線段中央, y 方向再向上平移兩個鏈條圓心距單位
-x1, y1 = mychain.basic_rot(0+65*2, -75, 90, color="brown")
+x1, y1 = mychain.basic_rot(0+65*2, -70, 90, color="brown")
 # 上方轉 80 度
 x2, y2 = mychain.basic_rot(x1, y1, 80, color="brown")
 # 上方轉 30 度
@@ -131,7 +131,7 @@ x3, y3 = mychain.basic_rot(x2, y2, 30, color="brown")
 # 上方水平
 x4, y4 = mychain.basic_rot(x3, y3, 0, color="brown")
 # 下半部, 從起點開始 -80 度
-x5, y5 = mychain.basic_rot(0+65*2, -75, -80, color="brown")
+x5, y5 = mychain.basic_rot(0+65*2, -70, -80, color="brown")
 # 下斜 -30 度
 x6, y6 = mychain.basic_rot(x5, y5, -30, color="brown")
 # 下方水平單元
