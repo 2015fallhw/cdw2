@@ -2,10 +2,10 @@
 from flask import Blueprint, render_template
 
 # 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
-scrum2_task40323236 = Blueprint('scrum2_task40323236', __name__, url_prefix='/bg7', template_folder='templates')
+scrum1_task40323204 = Blueprint('scrum1_task40323204', __name__, url_prefix='/bg5', template_folder='templates')
 
 # scrum1_task1 為完整可以單獨執行的繪圖程式
-@scrum2_task40323236.route('/scrum2_task40323236')
+@scrum1_task40323204.route('/scrum1_task40323204')
 def task1():
     outstring = '''
 <!DOCTYPE html>
@@ -39,8 +39,8 @@ cgo = cango("plotarea")
 cgo.setWorldCoords(-250, -250, 500, 500) 
 # 決定要不要畫座標軸線
 cgo.drawAxes(0, 240, 0, 240, {
-    "strokeColor":"#aaaaaa",
-    "fillColor": "#aaaaaa",
+    "strokeColor":"#FF8800",
+    "fillColor": "#FF8800",
     "xTickInterval": 20,
     "xLabelInterval": 20,
     "yTickInterval": 20,
@@ -64,36 +64,28 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     # 複製 cmbr, 然後命名為 basic1
     basic1 = cmbr.dup()
     # basic1 轉 120 度
-    basic1.rotate(120)
+    basic1.rotate(160)
     basic2 = cmbr.dup()
-    
+    basic2.rotate(0)
     basic2.translate(0, -20)
     
     basic3 = cmbr.dup()
-    basic3.rotate(60)
+    basic3.rotate(0)
     basic3.translate(20*math.cos(30*deg), 20*math.sin(30*deg))
-    
+  
     basic4 = cmbr.dup()
-    basic4.rotate(90)
-    basic4.translate(17*math.cos(30*deg), -20)
+    basic4.rotate(120)
+    basic4.translate(20*math.cos(30*deg), -20*math.sin(30*deg)-20)
     
     basic5 = cmbr.dup()
     basic5.translate(2*20*math.cos(30*deg), 0)
-
-    basic6 = cmbr.dup()
-    basic6.rotate(90)
-    basic6.translate(0, -20)
     
-    basic7 = cmbr.dup()
-    basic7.translate(40*math.cos(30*deg), -20)
-
     cmbr.appendPath(basic1)
     cmbr.appendPath(basic2)
     cmbr.appendPath(basic3)
     cmbr.appendPath(basic4)
     cmbr.appendPath(basic5)
-    cmbr.appendPath(basic6)
-    cmbr.appendPath(basic7)
+ 
     
     
     # hole 為原點位置
