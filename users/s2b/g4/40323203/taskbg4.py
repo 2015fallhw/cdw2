@@ -2,13 +2,13 @@
 from flask import Blueprint, render_template
 
 # 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
-bg9 = Blueprint('bg4', __name__, url_prefix='/bg4', template_folder='templates')
+bg4 = Blueprint('bg4', __name__, url_prefix='/bg4', template_folder='templates')
 
 
 
 # 展示傳回 Brython 程式
 @bg4.route('/taskbg4')
-def task2():
+def taskbg4():
     outstring = '''
 <!DOCTYPE html>
 <html>
