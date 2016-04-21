@@ -61,32 +61,46 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
             "border": border,
             "strokeColor": "tan",
             "lineWidth": linewidth })
-    # 複製 cmbr, 然後命名為 basic1
+ cmbr.translate(0, 20)    
+            
+  # 複製 cmbr, 然後命名為 basic1
     basic1 = cmbr.dup()
-    # basic1 轉 120 度
-    basic1.rotate(120)
-    basic2 = cmbr.dup()
+    basic1.translate(0, 20)
     
-    basic2.translate(0, -20)
+    basic2 = cmbr.dup()
+    basic2.rotate(-14.48)
+    basic2.translate(0, 40)
+    
+    basic9 = cmbr.dup()
+    basic9.rotate(-14.48)
+    basic9.translate(20*math.cos(75.52*deg), 40+20*math.sin(75.52*deg))
     
     basic3 = cmbr.dup()
-    basic3.rotate(60)
-    basic3.translate(20*math.cos(30*deg), 20*math.sin(30*deg))
+    basic3.rotate(-90)
+    basic3.translate(10, 60+20*math.sin(75.52*deg))
     
     basic4 = cmbr.dup()
-    basic4.rotate(90)
-    basic4.translate(17*math.cos(30*deg), -20)
+    basic4.rotate(14.48)
+    basic4.translate(40, 40)
+    
+    basic10 = cmbr.dup()
+    basic10.rotate(14.48)
+    basic10.translate(40-20*math.cos(75.52*deg), 40+20*math.sin(75.52*deg))
     
     basic5 = cmbr.dup()
-    basic5.translate(2*20*math.cos(30*deg), 0)
-
+    basic5.translate(40, 20)
+    
     basic6 = cmbr.dup()
-    basic6.rotate(90)
-    basic6.translate(0, -20)
+    basic6.translate(40, 0)
     
     basic7 = cmbr.dup()
-    basic7.translate(40*math.cos(30*deg), -20)
-
+    basic7.rotate(-90)
+    basic7.translate(0, 20)
+    
+    basic8 = cmbr.dup()
+    basic8.rotate(-90)
+    basic8.translate(20, 20)
+    
     cmbr.appendPath(basic1)
     cmbr.appendPath(basic2)
     cmbr.appendPath(basic3)
@@ -94,18 +108,20 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     cmbr.appendPath(basic5)
     cmbr.appendPath(basic6)
     cmbr.appendPath(basic7)
+    cmbr.appendPath(basic8)
+    cmbr.appendPath(basic9)
+    cmbr.appendPath(basic10)
     
     
     # hole 為原點位置
     #hole = cobj(shapedefs.circle(4), "PATH") 
     #cmbr.appendPath(hole) 
 
-    # 表示放大 3 倍
-    #cgo.render(cmbr, x, y, 3, rot)
+  
     # 放大 1 倍
     cgo.render(cmbr, x, y, 1, rot)
     
-O(0, 0, 0, 0, 0, "lightyellow", True, 4)
+O(0, 0, 0, 0, 0, "yellow", True, 4)
 </script>
 <!-- 以協同方式加上 ag100 的 scrum-2 組員所寫的 task1 程式碼 -->
 <!-- <script type="text/python" src="/ag100/scrum2_task1"></script>
