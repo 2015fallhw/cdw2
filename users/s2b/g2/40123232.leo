@@ -20,7 +20,7 @@
 <v t="leo.20160421111844.1"><vh>進入 content 目錄</vh></v>
 <v t="leo.20160421111909.1" a="E"><vh>@path content</vh>
 <v t="leo.20160421111916.1" a="E"><vh>@path bg2</vh>
-<v t="leo.20160421111922.1"><vh>@clean 40123235_2.md</vh></v>
+<v t="leo.20160421111922.1"><vh>@clean 40123232_2.md</vh></v>
 </v>
 </v>
 </v>
