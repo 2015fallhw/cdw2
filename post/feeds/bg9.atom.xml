@@ -12,7 +12,14 @@
 &lt;/br&gt;
 個人圖檔
 &lt;img src="./../files/bg9/33_2.png"&gt;
-&lt;/br&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task6"></category><category term="40323233"></category></entry><entry><title>40323250 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-23T20:27:06+08:00</updated><author><name>40323250</name></author><id>tag:2015fallhw.github.io,2016-04-23:cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
+&lt;/br&gt;
+&lt;h4&gt;這次的作業比較複雜，需要與組員一同去完成繪製鍊條，老師這次出的作業是為了讓我們理解如何更容易和別人協同，這樣才不會一個人出問題的時候，
+其他人沒辦法解決。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;Master主要是用於儲存繪圖程式檔案，
+將檔案傳上openshift，就可以在遠端顯示圖檔，並能夠導入組員的零件。&lt;/h4&gt;
+&lt;/br&gt;
+&lt;h4&gt;近端必須要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示。&lt;/h4&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task6"></category><category term="40323233"></category></entry><entry><title>40323250 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-23T20:27:06+08:00</updated><author><name>40323250</name></author><id>tag:2015fallhw.github.io,2016-04-23:cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
 
 
 
