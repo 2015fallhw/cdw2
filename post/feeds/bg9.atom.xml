@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg9.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-04-23T13:27:12+08:00</updated><entry><title>40323250 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-23T13:27:12+08:00</updated><author><name>40323250</name></author><id>tag:2015fallhw.github.io,2016-04-23:cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;期中報告&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg9.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-04-23T13:27:12+08:00</updated><entry><title>40323250 - 期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323250-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-23T13:27:12+08:00</updated><author><name>40323250</name></author><id>tag:2015fallhw.github.io,2016-04-23:cdw2/post/40323250-qi-zhong-bao-gao.html</id><summary type="html">&lt;h3&gt;40323250 - 期中報告&lt;/h3&gt;
 
 
+
+&lt;p&gt;&lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2"&gt;bg9藍圖&lt;/a&gt; 
+&lt;a href="http://2016spring-40323250.rhcloud.com/bg9/scrum1_50_ABCD"&gt;scrum1_50_ABCD&lt;/a&gt;
+&lt;/br&gt;
+&lt;hr&gt;
 &lt;h2&gt;Gh-pages : &lt;/h2&gt;
-
-&lt;h3&gt;在 gh-pages 裡的user/組別 目錄下 新增個人leo檔案，並將.md檔路徑放在content，至於紅色框框為檔案名稱，很多人都使用日期導致檔案一直覆寫。&lt;/h3&gt;
-
+&lt;h3&gt;在 gh-pages 裡的user/組別 目錄下 新增個人leo檔案，並將.md檔路徑放在content，至於紅色框框為檔案名稱，很多人都使用日期導致檔案一直覆寫。&lt;/h3&gt;&lt;/p&gt;
 &lt;h3&gt;和上學期個人md檔相同作法，編輯個人學期心得，並顯示於&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href="http://2015fallhw.github.io/cdw2/post/"&gt;cdw2首頁&lt;/a&gt; &lt;/p&gt;
@@ -22,11 +25,12 @@
 &lt;p&gt;&lt;img src="./../files/bg9/4.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;h2&gt;繪圖 : &lt;/h2&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../files/bg9/5.png"&gt;&lt;/p&gt;
+&lt;h2&gt;繪圖 : &lt;/h2&gt;
+&lt;/br&gt;
 &lt;h3&gt;此部分依照你的需求，若是使用你的藍圖為主畫布，則使用此串原始碼
 若為被導入之零件則刪除(尾端/script也要記得刪)&lt;/h3&gt;
-
+&lt;img src="./../files/bg9/5.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;h3&gt;個人檔案  可以使用多個畫布，但導入圖檔畫布要相同&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src="./../files/bg9/6.png"&gt;&lt;/p&gt;
@@ -34,7 +38,8 @@
 &lt;p&gt;&lt;/br&gt;
 &lt;h3&gt;會依照導入順序顯示圖形&lt;/h3&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../files/bg9/9.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/h3&gt;若傳上openshift後，幾天沒有開啟會導致頁面暫時關閉，只需按下重啟即可&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;h3&gt;若傳上openshift後，幾天沒有開啟會導致頁面暫時關閉，只需按下重啟即可&lt;/h3&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../files/bg9/10.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;&lt;/p&gt;
@@ -51,5 +56,5 @@
 
 &lt;p&gt;目前所完成的 OpenShift 對應繪圖連結: &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/task2"&gt;bg9藍圖&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;個人畫布 : &lt;a href="http://2016spring-40323250.rhcloud.com/bg9/scrum1_50_ABCD"&gt;scrum1_50_ABCD&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前完成字母，但是都以非常耗時的方式繪圖，在旋轉零件部分較為複雜，與組員的座標定位也要精確，否則會導致圖形組不起來&lt;/p&gt;
-&lt;p&gt;繪圖要注意自己的圖形的起始位置，以及複製圖形的旋轉中心，能夠掌握這兩點就能減少繪圖的出錯率。&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry></feed>
+&lt;p&gt;字母完成，繪圖部分在旋轉零件時較為複雜，與組員的座標定位也要精確，否則會導致圖形組不起來&lt;/p&gt;
+&lt;p&gt;繪圖要注意自己的圖形的起始位置，以及複製圖形的旋轉中心，能夠掌握這兩點就能減少繪圖的出錯概率。&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category><category term="40323250"></category></entry></feed>
