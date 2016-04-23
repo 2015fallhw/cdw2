@@ -61,7 +61,7 @@ Author: 40123202
 
 &lt;h2&gt;自評分數:85
 
-&lt;h2&gt;md檔:從2015fallhwfork cdw2並且git clone下來切換分支到 gh-pages,在content目錄下新增組別資料夾
+md檔:從2015fallhwfork cdw2並且git clone下來切換分支到 gh-pages,在content目錄下新增組別資料夾
 
 &lt;img src="./../files/bg2/1.png"&gt;
 
@@ -69,7 +69,8 @@ Author: 40123202
 
 &lt;img src="./../files/bg2/2.png"&gt;
 
-&lt;h2&gt;繪ABCD:繪製自己負責的部分，需在master分支下執行,需先在myflaskapp.py註冊各組組員的檔案如圖所示
+&lt;h2&gt;繪製2D-ABCD
+繪製自己負責的部分，需在master分支下執行,需先在myflaskapp.py註冊各組組員的檔案如圖所示
 
 &lt;img src="./../files/bg2/3.png"&gt;
 
@@ -93,18 +94,17 @@ scum2的內容所用
 
 &lt;img src="./../files/bg2/8.png"&gt;
 
-近端測試完後即可推上openshift的遠端網頁。
+近端測試完後即可推上openshift的遠端網頁:&lt;a href="http://cdw2-cadp13ag35.rhcloud.com/g2/scrum1_task40123235"&gt;bg2-openshift&lt;/a&gt; 
 
-&lt;a href="http://cdw2-cadp13ag35.rhcloud.com/g2/scrum1_task40123235"&gt;bg2-openshift&lt;/a&gt; 
+&lt;h2&gt;個人ABCD畫布
 
-&lt;h2&gt;3D
+&lt;img src="./../files/bg2/ABCD.png"&gt;
 
+&lt;h2&gt;Onshape繪製3D鍊條組立ABCD
+Onshape:&lt;a href="https://cad.onshape.com/documents/57182837e4b09398edad79e9"&gt;3D鏈條組立&lt;/a&gt; 
 &lt;img src="./../files/bg2/3D-A.png"&gt;
-
 &lt;img src="./../files/bg2/3D-B.png"&gt;
-
 &lt;img src="./../files/bg2/3D-C.png"&gt;
-
 &lt;img src="./../files/bg2/3D-D.png"&gt;
 </t>
 </tnodes>
