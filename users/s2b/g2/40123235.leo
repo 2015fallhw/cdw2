@@ -9,34 +9,34 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160421090922.3"><vh>因為位於 users/s2a/g100 目錄, 必須跳三層才到外圍</vh></v>
-<v t="leo.20160421090946.1" a="E"><vh>@path ./../../../</vh>
-<v t="leo.20160421090953.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
-<v t="leo.20160421091015.1"><vh>@button gh-pages pelican</vh></v>
+<v t="leo.20160423105828.2"><vh>因為位於 users/s2a/g100 目錄, 必須跳三層才到外圍</vh></v>
+<v t="leo.20160423105841.1" a="E"><vh>@path ./../../../</vh>
+<v t="leo.20160423105851.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
+<v t="leo.20160423105859.1"><vh>@button gh-pages pelican</vh></v>
 </v>
-<v t="leo.20160421091037.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
-<v t="leo.20160421091049.1"><vh>@button local pelican</vh></v>
+<v t="leo.20160423105906.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20160423105913.1"><vh>@button local pelican</vh></v>
 </v>
-<v t="leo.20160421091113.1"><vh>進入 content 目錄</vh></v>
-<v t="leo.20160421091128.1" a="E"><vh>@path content</vh>
-<v t="leo.20160421091141.1" a="E"><vh>@path bg2</vh>
-<v t="leo.20160421091214.1"><vh>@clean 40123235_2.md</vh></v>
+<v t="leo.20160423105919.1"><vh>進入 content 目錄</vh></v>
+<v t="leo.20160423105926.1" a="E"><vh>@path content</vh>
+<v t="leo.20160423105932.1" a="E"><vh>@path bg2</vh>
+<v t="leo.20160423105939.1"><vh>@clean 40123235_2.md</vh></v>
 </v>
 </v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160421090922.3"></t>
-<t tx="leo.20160421090946.1"></t>
-<t tx="leo.20160421090953.1"></t>
-<t tx="leo.20160421091015.1">@language python
+<t tx="leo.20160423105828.2"></t>
+<t tx="leo.20160423105841.1"></t>
+<t tx="leo.20160423105851.1"></t>
+<t tx="leo.20160423105859.1">@language python
 import os
 os.system("pelican content -o post -s publishconf.py")
 g.es("admin pelican 執行完畢")
 
 </t>
-<t tx="leo.20160421091037.1"></t>
-<t tx="leo.20160421091049.1">@language python
+<t tx="leo.20160423105906.1"></t>
+<t tx="leo.20160423105913.1">@language python
 import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
 os.system("pelican content -o post -s local_publishconf.py")
@@ -44,10 +44,10 @@ g.es("admin pelican 近端執行完畢")
 
 
 </t>
-<t tx="leo.20160421091113.1"></t>
-<t tx="leo.20160421091128.1"></t>
-<t tx="leo.20160421091141.1"></t>
-<t tx="leo.20160421091214.1">@language md
+<t tx="leo.20160423105919.1"></t>
+<t tx="leo.20160423105926.1"></t>
+<t tx="leo.20160423105932.1"></t>
+<t tx="leo.20160423105939.1">@language md
 Title: 40123235 - 期中報告
 Category: bg2
 Tags: scrum1, task1, 40123235
