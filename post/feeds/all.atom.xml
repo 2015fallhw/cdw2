@@ -178,7 +178,7 @@ Task1 相關: &lt;a href="https://cmsimply-cadlab.rhcloud.com/get_page?heading=2
 近端要在cdw2目錄下，使用python wsgi.py指令，才能夠在localhost5000顯示個人圖檔。&lt;/h3&gt;
 
 &lt;p&gt;&lt;/br&gt;
-繪圖須註冊藍圖，包括組別與個人，註冊位置在cdw2目錄下之simpleflask.leo&lt;/p&gt;
+&lt;h3&gt;繪圖須註冊藍圖，包括組別與個人，註冊位置在cdw2目錄下之simpleflask.leo&lt;/h3&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../files/bg9/3.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../files/bg9/4.png"&gt;
 &lt;/br&gt;
@@ -202,7 +202,7 @@ Task1 相關: &lt;a href="https://cmsimply-cadlab.rhcloud.com/get_page?heading=2
 &lt;p&gt;&lt;img src="./../files/bg9/ABCD.png"&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-協同繪圖需要用到Allow-Contorl-Allow-Origin功能&lt;/p&gt;
+&lt;h3&gt;協同繪圖需要用到Allow-Contorl-Allow-Origin功能&lt;/h3&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../files/bg9/11.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/br&gt;
 &lt;/br&gt;
