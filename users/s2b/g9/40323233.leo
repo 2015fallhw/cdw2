@@ -20,7 +20,7 @@
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="leo.20160414134149.2" a="E"><vh>@path bg9</vh>
-<v t="leo.20160414134149.1"><vh>@edit 40323233.md</vh></v>
+<v t="leo.20160414134149.1" a="M"><vh>@edit 40323233.md</vh></v>
 </v>
 </v>
 </v>
