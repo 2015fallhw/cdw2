@@ -22,6 +22,7 @@
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="amd.20160329174131.1" a="E"><vh>@path ag3</vh>
 <v t="amd.20160329174139.1"><vh>@clean 40123254-20160418.md</vh></v>
+<v t="leo.20160424210531.1"><vh>@clean scrum40123254_2.md</vh></v>
 </v>
 </v>
 </v>
@@ -62,5 +63,62 @@ ag3 組員 40123254 已經在 cdw2 倉儲中的 master 分支建立對應的組�
 其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
 </t>
 <t tx="amd.20160329211330.1"></t>
+<t tx="leo.20160424210531.1">@language md
+Title: 40123254-ag3期中報告
+Category: ag3
+Tags: scrum1, task1, 40123254
+
+期中報告
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;自評75
+
+&lt;h2&gt;繪圖ABCD
+
+完成後須先在近端測試可否執行
+
+&lt;img src="./../files/ag3/40123254-1.png"&gt;
+
+新建的.py檔都需注冊藍圖才可執行
+
+&lt;img src="./../files/ag3/40123254-2.png"&gt;
+
+&lt;img src="./../files/ag3/40123254-3.png"&gt;
+
+如果可以順利執行的話即可把資料傳送到Openshift遠端執行
+
+將自行創立的py3.3Openshift網站的資料下載下來
+
+&lt;img src="./../files/ag3/40123254-4.png"&gt;
+
+然後把cdw2裡資料複製到Openshift資料夾中
+
+(請不要複製到.git檔)
+
+git add -A
+
+git commit -m "提交訊息"
+
+git push origin gh-pages
+
+照上述指令提交檔案到Openshift
+
+目前所完成的 OpenShift 對應繪圖連結為
+
+&lt;a href="http://python-cadp13bg99.rhcloud.com/ag3/scrum1_week8_abcd"&gt;ag3-openshift&lt;/a&gt;
+
+&lt;h2&gt;建md檔
+
+建在各組別各組員各自的leo檔中
+
+&lt;img src="./../files/ag3/40123254-5.png"&gt;
+
+&lt;img src="./../files/ag3/40123254-6.png"&gt;
+
+md檔建在content目錄各組目錄下
+
+自評內容都在其中
+</t>
 </tnodes>
 </leo_file>
