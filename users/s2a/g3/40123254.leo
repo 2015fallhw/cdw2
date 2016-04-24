@@ -106,7 +106,7 @@ git push origin gh-pages
 
 目前所完成的 OpenShift 對應繪圖連結為
 
-&lt;a href="http://python-cadp13bg99.rhcloud.com/ag3/scrum1_week8_abcd"&gt;ag3-openshift&lt;/a&gt;
+&lt;a href="http://ag3-cadp13bg99.rhcloud.com/ag3/scrum1_week8_abcd"&gt;ag3-openshift&lt;/a&gt;
 
 &lt;h2&gt;建md檔
 
