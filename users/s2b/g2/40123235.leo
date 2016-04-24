@@ -96,6 +96,14 @@ scum2的內容所用
 近端測試完後即可推上openshift的遠端網頁。
 
 &lt;a href="http://cdw2-cadp13ag35.rhcloud.com/g2/scrum1_task40123235"&gt;bg2-openshift&lt;/a&gt; 
+
+&lt;h2&gt;3D
+&lt;img src="./../files/bg2/3D-A.png"&gt;
+&lt;img src="./../files/bg2/3D-B.png"&gt;
+&lt;img src="./../files/bg2/3D-C.png"&gt;
+&lt;img src="./../files/bg2/3D-D.png"&gt;
+
+
 </t>
 </tnodes>
 </leo_file>
