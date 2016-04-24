@@ -43,6 +43,8 @@ os.system("pelican content -o post -s local_publishconf.py")
 g.es("admin pelican 近端執行完畢")
 
 
+#add
+
 </t>
 <t tx="leo.20160423105919.1"></t>
 <t tx="leo.20160423105926.1"></t>
