@@ -2,19 +2,19 @@
 from flask import Blueprint, render_template
 
 # 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
-ag8_40323123 = Blueprint('ag8_40323123', __name__, url_prefix='/ag8_40323123', template_folder='templates')
+ag8_40323145 = Blueprint('ag8_40323145', __name__, url_prefix='/ag8_40323145', template_folder='templates')
 
-@ag8_40323123.route('/ag8_40323123_tesk.1')
+@ag8_40323145.route('/ag8_40323145_tesk.1')
 def task0():
-    return "ag8_40323123_tesk.1"
+    return "ag8_40323145_tesk.1"
     
-@ag8_40323123.route('/task1')
+@ag8_40323145.route('/task1')
 def task1():
     #return "ag100 task1"
     return render_template('task1.html', var1="來自 ag100 的 task1 變數")
 
 # 展示傳回 Brython 程式
-@ag8_40323123.route('/task2')
+@ag8_40323145.route('/task2')
 def task2():
     outstring = '''
 <!DOCTYPE html>
@@ -81,19 +81,26 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
 
     # 複製 cmbr, 然後命名為 basic1
     basic1 = cmbr.dup()
-    # basic1 轉 120 度
-    basic1.rotate(120)
-    basic2 = cmbr.dup()
-    basic2.rotate(0)
-    basic2.translate(60, 0)
+    basic1.rotate(90)
+    basic1.translate(0, 0)
     
-
+    basic2 = cmbr.dup()
+    basic2.rotate(180)
+    basic2.translate(0, 0)
+    
+    basic3 = cmbr.dup()
+    basic3.rotate(60)
+    basic3.translate(20*math.cos(30*deg), 20*math.sin(30*deg))
+    
+    basic4 = cmbr.dup()
+    basic4.rotate(60)
+    basic4.translate(40*math.cos(30*deg), 0*math.sin(30*deg))
+    
     
     cmbr.appendPath(basic1)
     cmbr.appendPath(basic2)
     cmbr.appendPath(basic3)
     cmbr.appendPath(basic4)
-    cmbr.appendPath(basic5)
     
     # hole 為原點位置
     hole = cobj(shapedefs.circle(4), "PATH")
@@ -102,7 +109,7 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     # 表示放大 3 倍
     #cgo.render(cmbr, x, y, 3, rot)
     # 放大 5 倍
-    cgo.render(cmbr, x, y, 5, rot)
+    cgo.render(cmbr, x, y, 3, rot)
 
 O(0, 0, 0, 0, 0, "lightyellow", True, 4)
 </script>
@@ -116,7 +123,7 @@ O(0, 0, 0, 0, 0, "lightyellow", True, 4)
     return outstring
     
 # 展示傳回 Brython 程式
-@ag8_40323123.route('/task3')
+@ag8_40323145.route('/task3')
 def task3():
     outstring = '''
 from javascript import JSConstructor
@@ -177,5 +184,3 @@ def task3(x, y, rx, ry, rot, color, border, linewidth):
 task3(0, 0, 0, 0, 0, "red", True, 4)
 '''
     return outstring
-    
-    
