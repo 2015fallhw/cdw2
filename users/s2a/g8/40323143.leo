@@ -93,6 +93,7 @@ app.register_blueprint(users.s2a.g6.ag6_40323155_task1.ag6_40323155)
 app.register_blueprint(users.s2a.g6.ag6_40323156_task1.ag6_40323156)
 #g8
 app.register_blueprint(users.s2a.g8.task1.ag8_40323143.ag8_40323143)
+app.register_blueprint(users.s2a.g8.a40323123.ag8_40323123.ag8_40323123)
 #g9
 app.register_blueprint(users.s2a.g9.ag9.ag9)
 app.register_blueprint(users.s2a.g9.ag9_40323132_task1.ag9_40323132)
@@ -192,6 +193,7 @@ import users.s2a.g6.ag6_40323155_task1
 import users.s2a.g6.ag6_40323156_task1
 #g8
 import users.s2a.g8.task1.ag8_40323143
+import users.s2a.g8.a40323123.ag8_40323123
 #g9
 import users.s2a.g9.ag9
 import users.s2a.g9.ag9_40323132_task1
