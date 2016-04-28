@@ -101,6 +101,7 @@ import users.s2b.g9.scrum6_task40323233
 #g10
 import users.s2b.g10.task0
 import users.s2b.g10.scrum1_task40328242
+import users.s2b.g10.scrum2_task40328245
 import users.s2b.g10.scrum3_task40323222
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
@@ -493,7 +494,7 @@ app.register_blueprint(users.s2b.g9.scrum6_task40323233.scrum6_task40323233)
 app.register_blueprint(users.s2b.g10.task0.bg10) 
 app.register_blueprint(users.s2b.g10.scrum1_task40328242.scrum1_task40328242)
 app.register_blueprint(users.s2b.g10.scrum3_task40323222.scrum3_task40323222)
-
+app.register_blueprint(users.s2b.g10.scrum2_task40328245.scrum2_task40328245)
 
 if __name__ == "__main__":
     app.run()
