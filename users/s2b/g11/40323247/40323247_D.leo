@@ -10,13 +10,22 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="450.20160406083718.1"><vh>@edit scrum2_task40323218.py</vh></v>
-<v t="544.20160424134127.1"><vh>@edit task0.py</vh></v>
-<v t="leo.20160414081849.1" a="E"><vh>@path ../../../</vh>
-<v t="leo.20160414081859.1"><vh>@edit myflaskapp.py</vh></v>
+<v t="leo.20160421111500.1"><vh>@edit scrum4_task40323247.py</vh></v>
+<v t="leo.20160421120451.1"><vh>@edit scrum4_40323247.html</vh></v>
+<v t="amd.20160329124554.2" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160329164739.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
+<v t="amd.20160329164739.2"><vh>@button gh-pages pelican</vh></v>
+</v>
 </v>
 </vnodes>
 <tnodes>
-<t tx="leo.20160414081849.1"></t>
+<t tx="amd.20160329124554.2"></t>
+<t tx="amd.20160329164739.1"></t>
+<t tx="amd.20160329164739.2">@language python
+import os
+os.system("pelican content -o post -s publishconf.py")
+g.es("admin pelican 執行完畢")
+
+</t>
 </tnodes>
 </leo_file>

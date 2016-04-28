@@ -2,11 +2,11 @@
 from flask import Blueprint, render_template
 
 # 利用 Blueprint建立 ag1, 並且 url 前綴為 /ag1, 並設定 template 存放目錄
-scrum1_task40323250 = Blueprint('scrum1_task40323250', __name__, url_prefix='/bg9', template_folder='templates')
+scrum1_task40323245 = Blueprint('scrum1_task40323245', __name__, url_prefix='/bg11', template_folder='templates')
 
 # scrum1_task1 為完整可以單獨執行的繪圖程式
-@scrum1_task40323250.route('/scrum1_50_ABCD')
-def scrum1_50_ABCD():
+@scrum1_task40323245.route('/scrum1_45_ABCD')
+def scrum1_45_ABCD():
     outstring = '''
 <!DOCTYPE html>
 <html>
@@ -126,8 +126,8 @@ O(0, 0, 0, 0, 0, "yellow", True, 4)
     return outstring
 
 
-@scrum1_task40323250.route('/scrum1_50_B')
-def scrum1_50_B():
+@scrum1_task40323245.route('/scrum1_45_B')
+def scrum1_45_B():
     outstring = '''
 
 from javascript import JSConstructor
@@ -247,8 +247,8 @@ O(0, 0, 0, 0, 0, "RED", True, 4)
     return outstring
 
 
-@scrum1_task40323250.route('/scrum1_50')
-def scrum1_50():
+@scrum1_task40323245.route('/scrum1_45')
+def scrum1_45():
     outstring = '''
 
 from javascript import JSConstructor
@@ -368,7 +368,7 @@ O(0, 0, 0, 0, 0, "red", True, 4)
 '''
     return outstring
     
-@scrum1_task40323250.route('/scrum1_test')
+@scrum1_task40323245.route('/scrum1_test')
 def scrum1_test():
     outstring = '''
 <!DOCTYPE html>
@@ -513,7 +513,7 @@ O(0, 0, 0, 0, 0, "red", True, 4)
 '''
     return outstring
     
-@scrum1_task40323250.route('/scrum1_class')
+@scrum1_task40323245.route('/scrum1_class')
 def scrum1_class():
     outstring = '''    
 <!DOCTYPE html>
