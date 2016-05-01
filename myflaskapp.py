@@ -108,6 +108,7 @@ import users.s2b.g9.scrum6_task40323233
 #g10
 import users.s2b.g10.task0
 import users.s2b.g10.scrum1_task40328242
+import users.s2b.g10.scrum2_task40328245
 import users.s2b.g10.scrum3_task40323222
 =======
 >>>>>>> e89a8e1c4ce1add6961e51c30a4712170e0a4ae8
@@ -521,7 +522,7 @@ app.register_blueprint(users.s2b.g9.scrum6_task40323233.scrum6_task40323233)
 app.register_blueprint(users.s2b.g10.task0.bg10) 
 app.register_blueprint(users.s2b.g10.scrum1_task40328242.scrum1_task40328242)
 app.register_blueprint(users.s2b.g10.scrum3_task40323222.scrum3_task40323222)
-
+app.register_blueprint(users.s2b.g10.scrum2_task40328245.scrum2_task40328245)
 
 =======
 >>>>>>> e89a8e1c4ce1add6961e51c30a4712170e0a4ae8
