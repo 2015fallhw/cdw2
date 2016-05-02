@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/bg5.atom.xml" rel="self"></link><id>./</id><updated>2016-04-30T00:07:44+08:00</updated><entry><title>40323253scrum5-回報 bg5 scrum5 初步繪圖主機與連結</title><link href="./40323253scrum5-hui-bao-bg5-scrum5-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:,2016-04-30:./40323253scrum5-hui-bao-bg5-scrum5-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/bg5.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-04-30T00:07:44+08:00</updated><entry><title>40323253scrum5-回報 bg5 scrum5 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323253scrum5-hui-bao-bg5-scrum5-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323253scrum5-hui-bao-bg5-scrum5-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
 
 
 &lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum5"></category><category term="task1"></category></entry><entry><title>40323255-期中報告</title><link href="./40323255-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323255</name></author><id>tag:,2016-04-30:./40323255-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum5"></category><category term="task1"></category></entry><entry><title>40323255-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323255-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323255</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323255-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href=" http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt; http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task1"></category></entry><entry><title>40323253-期中報告</title><link href="./40323253-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323253</name></author><id>tag:,2016-04-30:./40323253-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href=" http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt; http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;</summary><category term="scrum6"></category><category term="task1"></category></entry><entry><title>40323253-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323253-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323253</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323253-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;完成的 OpenShift 對應繪圖連結為:&lt;a href="http://cdw2-40323253.rhcloud.com/bg5/scrum5_task40323253_2"&gt;40323253畫布_繪製字母A&lt;/a&gt;&lt;/h2&gt;
 
@@ -32,17 +32,16 @@
 &lt;img src="./../files/bg5/53_3.png"&gt;
 
 &lt;h2&gt;期中心得 : &lt;/h2&gt;
-&lt;h3&gt;這學期我們開始協同課程，一上課老師就利用程式將我們分組，並利用GitHub的Fork來進行小組協同，各組員只需將做好的檔案Pull Request回去給組長審核即可。我們利用LEO編輯程式來畫圖，將圖檔以wsgi.py近端檢視，且上傳OpenShift將圖檔在遠端顯現出來，其中需要在OpenShift創建Pythone 3.3，利用鑰匙抓下來，再把圖檔貼上傳回遠端。在繪圖時必須先決定原點，再來要了解鍊條的尺寸，用三角函數計算其轉動角度，我認為最困難的並不是在繪製鍊條的部分，而是在協同觀念上，有種做完一步就卡關一步的感覺，總是有出不完的問題及衝突，希望這是我在未來能夠加以進步的地方。&lt;/h3&gt;</summary><category term="scrum5"></category><category term="task1"></category></entry><entry><title>40323251-期中報告</title><link href="./40323251-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323251</name></author><id>tag:,2016-04-30:./40323251-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;這學期我們開始協同課程，一上課老師就利用程式將我們分組，並利用GitHub的Fork來進行小組協同，各組員只需將做好的檔案Pull Request回去給組長審核即可。我們利用LEO編輯程式來畫圖，將圖檔以wsgi.py近端檢視，且上傳OpenShift將圖檔在遠端顯現出來，其中需要在OpenShift創建Pythone 3.3，利用鑰匙抓下來，再把圖檔貼上傳回遠端。在繪圖時必須先決定原點，再來要了解鍊條的尺寸，用三角函數計算其轉動角度，我認為最困難的並不是在繪製鍊條的部分，而是在協同觀念上，有種做完一步就卡關一步的感覺，總是有出不完的問題及衝突，希望這是我在未來能夠加以進步的地方。&lt;/h3&gt;</summary><category term="scrum5"></category><category term="task1"></category></entry><entry><title>40323251-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323251-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323251</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323251-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href=" http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt; http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;</summary><category term="scrum4"></category><category term="task1"></category></entry><entry><title>40323217-期中報告</title><link href="./40323217-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323217</name></author><id>tag:,2016-04-30:./40323217-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href=" http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt; http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;</summary><category term="scrum4"></category><category term="task1"></category></entry><entry><title>40323217-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323217-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323217</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323217-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;自評分數為:75分&lt;/h2&gt;
+&lt;h2&gt;自評分數為:83分&lt;/h2&gt;
 
 &lt;p&gt;&lt;br&gt;
- &lt;br&gt;
 &amp;nbsp;&lt;h2&gt;心得:&lt;/h2&gt;
-&lt;br&gt;
 在做期中報告當中遇到許多的問題&lt;br&gt;
+&lt;br&gt;
 問題１:New pull request的時候沒有選到gh-pages所以在master底下會產生一份和gh-pages一模一樣的
 資料，這告訴我下次要New pull request時要注意分支有沒有選好在按下去。&lt;br&gt;
 &lt;br&gt;
@@ -51,20 +50,21 @@
 解決方式:在複製別人資料時不要用ctrl + C 去leo檔裡save as後改檔名也要記的改leo檔裡標頭名稱(非常重要)要不然
 會去改到別人的東西。&lt;br&gt;
 &lt;br&gt;
-問題3:我在 GIT CLONE Openshift時候碰到沒辦法 GIT CLONE原因是沒有設定id_rsa(private key)和public key
+問題３:我在 GIT CLONE Openshift時候碰到沒辦法 GIT CLONE原因是沒有設定id_rsa(private key)和public key
 這表示沒有權限可以git clone 遠端資料夾，所以透過puttygen產生兩把鑰匙一把放網頁上(private key)一把放我們近端
 在git clone 時候兩把鑰匙會互相比對假如正確就可以git clone。&lt;br&gt;
 &lt;br&gt;
-問題4:我在git push時發現如果資料有更新也有save沒有推送回去電腦不會給切換分支，這點很重要因為我找很久才找到
+問題４:我在git push時發現如果資料有更新也有save沒有推送回去電腦不會給切換分支，這點很重要因為我找很久才找到
 原因。&lt;br&gt;
 &lt;br&gt;
-問題5:我在近端(使用者端)沒按法開起pythob wsgi.py(目前還沒有解決方案)&lt;br&gt;
+問題５:我在近端(使用者端)沒按法開起pythob wsgi.py(目前還沒有解決方案)&lt;br&gt;
 目前能想到的方式就是把它說的衝突的行數刪掉，這會是最快的方式。&lt;br&gt;
-&amp;nbsp;&amp;nbsp;以上是我在做期中報告時候所碰到的問題&lt;br&gt;
+&lt;br&gt;
+以上是我在做期中報告時候所碰到的問題&lt;br&gt;
 &lt;br&gt;
 &lt;h2&gt;Openshift 網頁執行結果圖&lt;/h2&gt;&lt;br&gt;
 &lt;img src="./../files/bg5/17_1.png"&gt;&lt;br&gt;
-&amp;nbsp;這圖主要藉由leo去編輯編輯時候有分為近端的wsgi.py跟遠端的openshift。&lt;br&gt;
+&amp;nbsp;這圖主要藉由leo去編輯編輯有分為近端的wsgi.py(藉由python wsgi.py去啟動近端畫布)跟遠端的Openshift畫布(必須確認近端確認圖形OK後上傳至Openshift)。&lt;br&gt;
 &lt;br&gt;&lt;h2&gt;設定Openshift圖方式如下&lt;/h2&gt;&lt;br&gt;
 &amp;nbsp;第一步&lt;br&gt;
 &lt;img src="./../files/bg5/17_2.png"&gt;&lt;br&gt;
@@ -75,15 +75,23 @@
 &lt;br&gt;&amp;nbsp;第四步&lt;br&gt;
 &lt;img src="./../files/bg5/17_5.png"&gt;&lt;br&gt;
 &lt;br&gt;&amp;nbsp;第五步:設定public and private key &lt;br&gt;
-&amp;nbsp;&amp;nbsp;先設定puttygen產生兩把鑰匙(方式如以前以樣不清楚可以參閱老師以前所拍攝影片)-&amp;gt;到Openshift-&amp;gt;Setting-&amp;gt;Add a new key-&amp;gt;把你的public key放到這-&amp;gt;近端放 id_rsa(private key放在cdw2/home/.ssh-&amp;gt;.ssh資料夾要用命令列創指令為mkdir .ssh)&lt;br&gt;
+先設定puttygen產生兩把鑰匙(方式如以前以樣不清楚可以參閱老師以前所拍攝影片)-&amp;gt;到Openshift-&amp;gt;Setting-&amp;gt;Add a new key-&amp;gt;把你的public key放到這-&amp;gt;近端放 id_rsa(private key放在cdw2/home/.ssh-&amp;gt;.ssh資料夾要用命令列創指令為mkdir .ssh)以上步驟完成後就可以git clone  Openshift的倉儲下來近端。&lt;br&gt;
 &lt;br&gt;&lt;h2&gt;近端畫布內容介紹(組員須知基本款)&lt;/h2&gt;
 &lt;br&gt;
 &lt;img src="./../files/bg5/17_6.png"&gt;&lt;br&gt;
+&lt;br&gt;
 &lt;h2&gt;完成的Onshape的字母圖形&lt;/h2&gt;
 &lt;br&gt;
 &lt;img src="./../files/bg5/17_7.png"&gt;&lt;br&gt;
 &lt;br&gt;
-&lt;h2&gt;期中心得:&lt;/h2&gt;這次期中報告我是被分配到2D平面B字母當中有外型介紹、轉變方向、移動位置我想老師主要的目的是讓我們知道在協同當中你所扮演的角色有的是組長有的是組員所以組長跟組員之間需要溝通也需要互相配合，這次利用Fork來進行協同的過程當中我們需要藉由LEO來進行編輯字母(ABCD)我們一開始沒有把位置制定好所以我的原點在(0,0)但是我們組長後來跟我說我的位置在(0.80)這讓我知道在協同當中溝通真的很重要，要不然有可能做到別人的位置去(意思指0,0位置是別人的)近端部分你必須先確認好你的圖形是正確的再將圖形推送到Openshift而在openshift裡有用到以前的puttygen觀念設定鑰匙，還有怎樣把　github的資料複製到openshift上並且把近端的畫布顯示在遠端上。&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category></entry><entry><title>40323206-期中報告</title><link href="./40323206-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323206</name></author><id>tag:,2016-04-30:./40323206-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+協同的目的是在由大家分配好工作之後分別對於一個專案進行協同，這個Onshape的字母B是由組員所繪製後分配到每個人的作業，這次的作業我是被分配到2D畫布字母B，我發現他和Onshape不同地方是Onshape是藉由限制條件去組立而leo編輯器是藉由調整鏈條方向、位置及角度去達到編輯的目的。&lt;br&gt;
+&lt;br&gt;
+&lt;h2&gt;期中心得:&lt;/h2&gt;這次期中報告我是被分配到2D平面B字母當中有外型介紹、轉變方向、移動位置我想老師主要的目的是讓我們知道在協同當中你所扮演的角色有的是組長有的是組員所以組長跟組員之間需要溝通也需要互相配合，這次利用Fork來進行協同的過程當中我們需要藉由LEO來進行編輯字母(ABCD)我們一開始沒有把位置制定好所以我的原點在(0,0)但是我們組長後來跟我說我的位置在(0.80)這讓我知道在協同當中溝通真的很重要，要不然有可能做到別人的位置去(意思指0,0位置是別人的)近端部分你必須先確認好你的圖形是正確的再將圖形推送到Openshift而在openshift裡有用到以前的puttygen觀念設定鑰匙，還有怎樣把github的資料複製到openshift上並且把近端的畫布顯示在遠端上。&lt;br&gt;
+&lt;h2&gt;註解:&lt;/h2&gt;&lt;br&gt;
+期中報告需做項目整理&lt;br&gt;
+1.近端畫布(python wsgi.py)及遠端畫布(openshift)倉儲分支在gh-pages。 &lt;br&gt;
+2.Onshape(ABCD)功課，依照每個組員所分配到的字母下去畫。&lt;br&gt;
+3.master的期中報告內容(依照所學習的狀況下去做)。&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category></entry><entry><title>40323206-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323206-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323206</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323206-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2bg5-40323206.rhcloud.com/bg5/scrum2_task40323206"&gt;http://cdw2bg5-40323206.rhcloud.com/bg5/scrum2_task40323206&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在班級倉儲cdw2的master建立.leo進行英文字母的繪製(會自動產生一個.py)，建立好後可以在cmd輸入python wsgi.py的指令，就可以在近端開啟http://localhost:5000/bg組別/scrum第幾組員_task學號，可以檢視程式碼畫出的英文字母。
@@ -219,7 +227,7 @@ EX: /bg5/scrum2_task40323206&lt;/p&gt;
 2.了解你在組別裡的工作(大家要分工)&lt;br /&gt;
 3.尊重其他組別(可以互相參考資訊，但不要"偷竊")&lt;br /&gt;
 4.隨時注意整個環境的變動(記得改版更新)&lt;br /&gt;
-5.在乎這個班級(不要忘了倉儲是"年級"共用的，但我就不先說隔壁班了...)&lt;br /&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>40323204-期中報告</title><link href="./40323204-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323204</name></author><id>tag:,2016-04-30:./40323204-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+5.在乎這個班級(不要忘了倉儲是"年級"共用的，但我就不先說隔壁班了...)&lt;br /&gt;&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>40323204-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323204-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>40323204</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323204-qi-zhong-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;自評成績:80分&lt;/h3&gt;
 
@@ -240,15 +248,15 @@ EX: /bg5/scrum2_task40323206&lt;/p&gt;
 &lt;p&gt;O(0, 0, 0, 0, 0, "lightyellow", True, 4) →顏色為黃色&lt;/p&gt;
 &lt;h3&gt; A的3D圖STL檔&lt;/h3&gt;
 
-&lt;p&gt;&lt;script src="https://embed.github.com/view/3d/hsungchang/cdw2/blob/master/Chain%20-%20A.stl"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category></entry><entry><title>40323217scrum3-回報 bg5 scrum3 初步繪圖主機與連結</title><link href="./40323217scrum3-hui-bao-bg5-scrum3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:,2016-04-30:./40323217scrum3-hui-bao-bg5-scrum3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;ag100 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+&lt;p&gt;&lt;script src="https://embed.github.com/view/3d/hsungchang/cdw2/blob/master/Chain%20-%20A.stl"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="scrum1"></category><category term="task1"></category></entry><entry><title>40323217scrum3-回報 bg5 scrum3 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323217scrum3-hui-bao-bg5-scrum3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323217scrum3-hui-bao-bg5-scrum3-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;ag100 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
 
 
 &lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category></entry><entry><title>40323206scrum2-連結測試</title><link href="./40323206scrum2-lian-jie-ce-shi.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:,2016-04-30:./40323206scrum2-lian-jie-ce-shi.html</id><summary type="html">&lt;p&gt;bg5組員scrum2已連上組別&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum3"></category><category term="task1"></category></entry><entry><title>40323206scrum2-連結測試</title><link href="http://2015fallhw.github.io/cdw2/post/40323206scrum2-lian-jie-ce-shi.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/40323206scrum2-lian-jie-ce-shi.html</id><summary type="html">&lt;p&gt;bg5組員scrum2已連上組別&lt;/p&gt;
 
 
 &lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>scrum1-回報 bg5 scrum1 初步繪圖主機與連結</title><link href="./scrum1-hui-bao-bg5-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:,2016-04-30:./scrum1-hui-bao-bg5-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+&lt;p&gt;其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.&lt;/p&gt;</summary><category term="scrum2"></category><category term="task1"></category></entry><entry><title>scrum1-回報 bg5 scrum1 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/scrum1-hui-bao-bg5-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-04-30T00:07:44+08:00</updated><author><name>kmol</name></author><id>tag:2015fallhw.github.io,2016-04-30:cdw2/post/scrum1-hui-bao-bg5-scrum1-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
 
 
 &lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
