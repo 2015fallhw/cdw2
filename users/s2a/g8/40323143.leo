@@ -21,9 +21,6 @@
 </v>
 <v t="amd.20160314224057.1" a="E"><vh>master 分支 flask 程式開發</vh>
 <v t="amd.20160314224303.1"><vh>@edit task0.py</vh></v>
-<v t="leo.20160328114712.1"><vh>@path a40323123</vh>
-<v t="leo.20160328114017.1"><vh>@edit ag8_40323123.py</vh></v>
-</v>
 <v t="leo.20160328085954.1" a="E"><vh>@path task1</vh>
 <v t="leo.20160328090027.1"><vh>@edit ag8_40323143.py</vh></v>
 </v>
@@ -731,7 +728,6 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 </t>
 <t tx="leo.20160328085954.1"></t>
-<t tx="leo.20160328114712.1"></t>
 <t tx="leo.20160425091319.2"></t>
 <t tx="leo.20160425091319.3">(uncached) amd.20160314224223.1
 Diff...
