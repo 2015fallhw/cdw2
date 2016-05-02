@@ -81,7 +81,7 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
 
     # 複製 cmbr, 然後命名為 basic1
     basic1 = cmbr.dup()
-    basic1.rotate(180)
+    basic1.rotate(166)
     basic1.translate(0, 0)
     
     basic2 = cmbr.dup()
@@ -89,28 +89,184 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     basic2.translate(0, -20)
     
     basic3 = cmbr.dup()
-    basic3.rotate(180)
-    basic3.translate(0, 20)
+    basic3.rotate(166)
+    basic3.translate(20*math.sin(14*deg),20*math.cos(14*deg))
     
     basic4 = cmbr.dup()
-    basic4.rotate(180)
-    basic4.translate(0, 40)
+    basic4.rotate(90)
+    basic4.translate(40*math.sin(14*deg), 40*math.cos(14*deg))
     
     basic5 = cmbr.dup()
     basic5.rotate(90)
-    basic5.translate(0, -40)
+    basic5.translate(20, -20)
     
     basic6 = cmbr.dup()
-    basic6.rotate(120)
-    basic6.translate(20, -40)
+    basic6.rotate(90)
+    basic6.translate(0, -20)
     
     basic7 = cmbr.dup()
     basic7.rotate(180)
-    basic7.translate(20+20*math.cos(30*deg), -20-20*math.sin(30*deg))
+    basic7.translate(40, -40)
     
     basic8 = cmbr.dup()
     basic8.rotate(180)
-    basic8.translate(20+20*math.cos(30*deg), -20-20*math.sin(30*deg))
+    basic8.translate(40, -20)
+    
+    basic9 = cmbr.dup()
+    basic9.rotate(15)
+    basic9.translate(20+40*math.sin(14*deg), 40*math.cos(14*deg))
+     
+    basic10 = cmbr.dup()
+    basic10.rotate(195)
+    basic10.translate(40, 0)
+     
+    basic11 = cmbr.dup()
+    basic11.rotate(180)
+    basic11.translate(40, -20)
+    
+    basic21 = cmbr.dup()
+    basic21.rotate(166)
+    basic21.translate(60, 0)
+    
+    basic22 = cmbr.dup()
+    basic22.rotate(0)
+    basic22.translate(60, -20)
+    
+    basic23 = cmbr.dup()
+    basic23.rotate(166)
+    basic23.translate(60+20*math.sin(14*deg),20*math.cos(14*deg))
+    
+    basic24 = cmbr.dup()
+    basic24.rotate(90)
+    basic24.translate(60+40*math.sin(14*deg), 40*math.cos(14*deg))
+    
+    basic25 = cmbr.dup()
+    basic25.rotate(90)
+    basic25.translate(80, -20)
+    
+    basic26 = cmbr.dup()
+    basic26.rotate(90)
+    basic26.translate(60, -20)
+    
+    basic27 = cmbr.dup()
+    basic27.rotate(180)
+    basic27.translate(60+40, -40)
+    
+    basic28 = cmbr.dup()
+    basic28.rotate(180)
+    basic28.translate(60+40, -20)
+    
+    basic29 = cmbr.dup()
+    basic29.rotate(15)
+    basic29.translate(60+20+40*math.sin(14*deg), 40*math.cos(14*deg))
+     
+    basic210 = cmbr.dup()
+    basic210.rotate(195)
+    basic210.translate(60+40, 0)
+     
+    basic211 = cmbr.dup()
+    basic211.rotate(180)
+    basic211.translate(60+40, -20)
+    
+    basic212 = cmbr.dup()
+    basic212.rotate(0)
+    basic212.translate(60, 0)
+    
+    basic31 = cmbr.dup()
+    basic31.rotate(166)
+    basic31.translate(60+60, 0)
+    
+    basic32 = cmbr.dup()
+    basic32.rotate(0)
+    basic32.translate(60+60, -20)
+    
+    basic33 = cmbr.dup()
+    basic33.rotate(166)
+    basic33.translate(60+60+20*math.sin(14*deg),20*math.cos(14*deg))
+    
+    basic34 = cmbr.dup()
+    basic34.rotate(90)
+    basic34.translate(60+60+40*math.sin(14*deg), 40*math.cos(14*deg))
+    
+    basic35 = cmbr.dup()
+    basic35.rotate(90)
+    basic35.translate(60+80, -20)
+    
+    basic36 = cmbr.dup()
+    basic36.rotate(90)
+    basic36.translate(60+60, -20)
+    
+    basic37 = cmbr.dup()
+    basic37.rotate(180)
+    basic37.translate(60+60+40, -40)
+    
+    basic38 = cmbr.dup()
+    basic38.rotate(180)
+    basic38.translate(60+60+40, -20)
+    
+    basic39 = cmbr.dup()
+    basic39.rotate(15)
+    basic39.translate(60+60+20+40*math.sin(14*deg), 40*math.cos(14*deg))
+     
+    basic310 = cmbr.dup()
+    basic310.rotate(195)
+    basic310.translate(60+60+40, 0)
+     
+    basic311 = cmbr.dup()
+    basic311.rotate(180)
+    basic311.translate(60+60+40, -20)
+    
+    basic312 = cmbr.dup()
+    basic312.rotate(0)
+    basic312.translate(60+60, 0)
+    
+    basic41 = cmbr.dup()
+    basic41.rotate(166)
+    basic41.translate(60+60+60, 0)
+    
+    basic42 = cmbr.dup()
+    basic42.rotate(0)
+    basic42.translate(60+60+60, -20)
+    
+    basic43 = cmbr.dup()
+    basic43.rotate(166)
+    basic43.translate(60+60+60+20*math.sin(14*deg),20*math.cos(14*deg))
+    
+    basic44 = cmbr.dup()
+    basic44.rotate(90)
+    basic44.translate(60+60+60+40*math.sin(14*deg), 40*math.cos(14*deg))
+    
+    basic45 = cmbr.dup()
+    basic45.rotate(90)
+    basic45.translate(60+60+80, -20)
+    
+    basic46 = cmbr.dup()
+    basic46.rotate(90)
+    basic46.translate(60+60+60, -20)
+    
+    basic47 = cmbr.dup()
+    basic47.rotate(180)
+    basic47.translate(60+60+60+40, -40)
+    
+    basic48 = cmbr.dup()
+    basic48.rotate(180)
+    basic48.translate(60+60+60+40, -20)
+    
+    basic49 = cmbr.dup()
+    basic49.rotate(15)
+    basic49.translate(60+60+60+20+40*math.sin(14*deg), 40*math.cos(14*deg))
+     
+    basic410 = cmbr.dup()
+    basic410.rotate(195)
+    basic410.translate(60+60+60+40, 0)
+     
+    basic411 = cmbr.dup()
+    basic411.rotate(180)
+    basic411.translate(60+60+60+40, -20)
+    
+    basic412 = cmbr.dup()
+    basic412.rotate(0)
+    basic412.translate(60+60+60, 0)
     
     
     cmbr.appendPath(basic1)
@@ -120,7 +276,49 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     cmbr.appendPath(basic5)
     cmbr.appendPath(basic6)
     cmbr.appendPath(basic7)
+    cmbr.appendPath(basic8)
+    cmbr.appendPath(basic9)
+    cmbr.appendPath(basic10)
+    cmbr.appendPath(basic11)
     
+    cmbr.appendPath(basic21)
+    cmbr.appendPath(basic22)
+    cmbr.appendPath(basic23)
+    cmbr.appendPath(basic24)
+    cmbr.appendPath(basic25)
+    cmbr.appendPath(basic26)
+    cmbr.appendPath(basic27)
+    cmbr.appendPath(basic28)
+    cmbr.appendPath(basic29)
+    cmbr.appendPath(basic210)
+    cmbr.appendPath(basic211)
+    cmbr.appendPath(basic212)
+    
+    cmbr.appendPath(basic31)
+    cmbr.appendPath(basic32)
+    cmbr.appendPath(basic33)
+    cmbr.appendPath(basic34)
+    cmbr.appendPath(basic35)
+    cmbr.appendPath(basic36)
+    cmbr.appendPath(basic37)
+    cmbr.appendPath(basic38)
+    cmbr.appendPath(basic39)
+    cmbr.appendPath(basic310)
+    cmbr.appendPath(basic311)
+    cmbr.appendPath(basic312)
+    
+    cmbr.appendPath(basic41)
+    cmbr.appendPath(basic42)
+    cmbr.appendPath(basic43)
+    cmbr.appendPath(basic44)
+    cmbr.appendPath(basic45)
+    cmbr.appendPath(basic46)
+    cmbr.appendPath(basic47)
+    cmbr.appendPath(basic48)
+    cmbr.appendPath(basic49)
+    cmbr.appendPath(basic410)
+    cmbr.appendPath(basic411)
+    cmbr.appendPath(basic412)
 
     
     # hole 為原點位置
@@ -130,9 +328,9 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     # 表示放大 3 倍
     #cgo.render(cmbr, x, y, 3, rot)
     # 放大 5 倍
-    cgo.render(cmbr, x, y, 3, rot)
+    cgo.render(cmbr, x, y, 1, rot)
 
-O(0, 0, 0, 0, 0, "lightyellow", True, 4)
+O(0, 0, 0, 0, 0, "green", True, 4)
 </script>
 <!-- 以協同方式加上 ag100 的 task3 程式碼 -->
 <script type="text/python" src="/ag100/task3"></script>

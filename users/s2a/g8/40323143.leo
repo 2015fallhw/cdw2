@@ -14,14 +14,14 @@
 </v>
 <v t="leo.20160310095258.1"><vh>Task0 任務說明</vh></v>
 <v t="leo.20160310111205.1"><vh>@edit index.html</vh></v>
-<v t="leo.20160310091611.2"><vh>@path ./../../../2a_files/task0</vh>
+<v t="leo.20160310091611.2" a="E"><vh>@path ./../../../2a_files/task0</vh>
 <v t="leo.20160310094820.1"><vh>@edit 2016_cd_2a_1.txt</vh></v>
 <v t="leo.20160310091810.1"><vh>@edit 2016_cd_2a_2.txt</vh></v>
 <v t="amd.20160315155440.1"><vh>@edit 2016_cd_2a_3.txt</vh></v>
 </v>
 <v t="amd.20160314224057.1" a="E"><vh>master 分支 flask 程式開發</vh>
 <v t="amd.20160314224303.1"><vh>@edit task0.py</vh></v>
-<v t="leo.20160328114712.1" a="E"><vh>@path a40323123</vh>
+<v t="leo.20160328114712.1"><vh>@path a40323123</vh>
 <v t="leo.20160328114017.1"><vh>@edit ag8_40323123.py</vh></v>
 </v>
 <v t="leo.20160328085954.1" a="E"><vh>@path task1</vh>
@@ -53,7 +53,7 @@
 <v t="leo.20160328083350.5"><vh>new:myflaskapp declarations</vh></v>
 </v>
 </v>
-<v t="leo.20160425091319.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20160425091319.2"><vh>Recovered Nodes</vh>
 <v t="leo.20160425091319.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
 <v t="leo.20160425091319.4"><vh>old:myflaskapp declarations</vh></v>
 <v t="leo.20160425091319.5"><vh>new:myflaskapp declarations</vh></v>
@@ -81,8 +81,7 @@ task1 則利用 render_template 傳回資料</t>
 app.register_blueprint(users.s2a.g100.scrum1_task1.scrum1_task1)
 # 註冊 ag100 的 scrum2_task1.py 檔案中的 scrum2_task1 藍圖
 app.register_blueprint(users.s2a.g100.scrum2_task1.scrum2_task1)
-#g3
-app.register_blueprint(users.s2a.g3.scrum1_task40123254.scrum1_task40123254)
+
 #g6
 app.register_blueprint(users.s2a.g6.ag6.ag6)
 app.register_blueprint(users.s2a.g6.ag6_40323112_task1.ag6_40323112)
@@ -181,8 +180,7 @@ import init
 # 導入 ag100 所屬的模組
 import users.s2a.g100.scrum1_task1
 import users.s2a.g100.scrum2_task1
-#g3
-import users.s2a.g3.scrum1_task40123254
+
 #g6
 import users.s2a.g6.ag6
 import users.s2a.g6.ag6_40323112_task1
