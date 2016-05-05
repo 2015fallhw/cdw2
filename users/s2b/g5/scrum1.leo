@@ -10,7 +10,6 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20160329211330.1"><vh>因為位於 users/s2a/g100 目錄, 必須跳三層才到外圍</vh></v>
 <v t="amd.20160329124554.2" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160329164739.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="amd.20160329164739.2"><vh>@button gh-pages pelican</vh></v>
@@ -20,8 +19,9 @@
 </v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="amd.20160329174131.1"><vh>@path ag100</vh></v>
-<v t="amd.20160329174139.1"><vh>@clean scrum1-20160329.md</vh></v>
+<v t="amd.20160329174131.1" a="E"><vh>@path bg5</vh>
+<v t="leo.20160428112536.1"><vh>@clean scrum1-40323204_2.md</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -46,22 +46,47 @@ g.es("admin pelican 執行完畢")
 
 </t>
 <t tx="amd.20160329174131.1"></t>
-<t tx="amd.20160329174139.1">@language md
-Title: 40323204scrum1-回報 bg5 scrum1 初步繪圖主機與連結
+<t tx="leo.20160428112536.1">@language md
+Title: 40323204-期中報告
 Category: bg5
-Tags: scrum1, task1, 40323204
-Author: kmol
+Tags: scrum1, task1
+Author: 40323204
 @others
-請注意: 這個 .md 檔案應該要放到 s2b/g5 目錄中, 而且用學號作為 Tags 分類讓使用者可以較容易透過 Tags 找到某一學員所提供的所有內容.
-
-bg5 組員 40323204 已經在 cdw2 倉儲中的 master 分支建立對應的組員 40323204.leo 並且完成 Task1 的繪圖藍圖建立與註冊
-
+ 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
+ 
+&lt;h3&gt;自評成績:80分&lt;/h3&gt;
 
-目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;
+&lt;h3&gt;目前所完成的 OpenShift 對應繪圖連結為:&lt;/h3&gt;
 
-其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
+ &lt;a href="http://cdw2bg5w10-40323204sandy.rhcloud.com/bg5/scrum1_task40323204"&gt;http://cdw2bg5w10-40323204sandy.rhcloud.com/bg5/scrum1_task40323204&lt;/a&gt;
+
+&lt;h3&gt;心得:&lt;/h3&gt;
+
+在這次課程中我主要的工作是建出網頁供組員們使用，我們別中的組長和協同者是不一樣的人，所以在協同上多了一份麻煩，在繪圖上我覺得最困難的是合併，個人畫一個字母很簡單，但是要組員分散畫零件再組起來就很困難，在傳回給老師的途中會有衝突，要進行手動解衝突，看了老師給的解法我還是不太理解，現在們組只有各自畫出字母，還無法組起來。
+
+&lt;h3&gt;繪圖語法:&lt;/h3&gt;
+
+ basic1 = cmbr.dup() →叫出畫好的基本元件      
+ 
+ basic1.rotate(120) →旋轉120度
+ 
+ basic1.translate(0, -20) →原點位置
+ 
+ basic1.translate(20*math.cos(30*deg), 20*math.sin(30*deg)) →以三角函數來算原點
+ 
+ cmbr.appendPath(basic1) →最後要呼叫出自己寫的圖
+ 
+  cgo.render(cmbr, x, y, 3, rot) →表示放大 3 倍
+ 
+  O(0, 0, 0, 0, 0, "lightyellow", True, 4) →顏色為黃色
+  
+  
+&lt;h3&gt; A的3D圖STL檔&lt;/h3&gt;
+  
+  &lt;script src="https://embed.github.com/view/3d/hsungchang/cdw2/blob/master/Chain%20-%20A.stl"&gt;&lt;/script&gt;
+  
+
 </t>
-<t tx="amd.20160329211330.1"></t>
 </tnodes>
 </leo_file>
