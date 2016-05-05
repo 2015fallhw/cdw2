@@ -54,7 +54,7 @@ Author: 40323217
 @others
  
 &lt;!-- PELICAN_END_SUMMARY --&gt;
- &lt;h2&gt;自評分數為:83分&lt;/h2&gt;&lt;br&gt;
+ &lt;h2&gt;自評分數為:86分&lt;/h2&gt;&lt;br&gt;
 &amp;nbsp;&lt;h2&gt;心得:&lt;/h2&gt;
 在做期中報告當中遇到許多的問題&lt;br&gt;
 &lt;br&gt;
@@ -79,26 +79,26 @@ Author: 40323217
 以上是我在做期中報告時候所碰到的問題&lt;br&gt;
 &lt;br&gt;
 &lt;h2&gt;Openshift 網頁執行結果圖&lt;/h2&gt;&lt;br&gt;
-&lt;img src="./../files/bg5/17_1.png"&gt;&lt;br&gt;
+&lt;img src="./../files/bg5/17_1.PNG"&gt;&lt;br&gt;
 &amp;nbsp;這圖主要藉由leo去編輯編輯有分為近端的wsgi.py(藉由python wsgi.py去啟動近端畫布)跟遠端的Openshift畫布(必須確認近端確認圖形OK後上傳至Openshift)。&lt;br&gt;
 &lt;br&gt;&lt;h2&gt;設定Openshift圖方式如下&lt;/h2&gt;&lt;br&gt;
 &amp;nbsp;第一步&lt;br&gt;
-&lt;img src="./../files/bg5/17_2.png"&gt;&lt;br&gt;
+&lt;img src="./../files/bg5/17_2.PNG"&gt;&lt;br&gt;
 &lt;br&gt;&amp;nbsp;第二步&lt;br&gt;
-&lt;img src="./../files/bg5/17_3.png"&gt;&lt;br&gt;
+&lt;img src="./../files/bg5/17_3.PNG"&gt;&lt;br&gt;
 &lt;br&gt;&amp;nbsp;第三步&lt;br&gt;
-&lt;img src="./../files/bg5/17_4.png"&gt;&lt;br&gt;
+&lt;img src="./../files/bg5/17_4.PNG"&gt;&lt;br&gt;
 &lt;br&gt;&amp;nbsp;第四步&lt;br&gt;
-&lt;img src="./../files/bg5/17_5.png"&gt;&lt;br&gt;
+&lt;img src="./../files/bg5/17_5.PNG"&gt;&lt;br&gt;
 &lt;br&gt;&amp;nbsp;第五步:設定public and private key &lt;br&gt;
 先設定puttygen產生兩把鑰匙(方式如以前以樣不清楚可以參閱老師以前所拍攝影片)-&gt;到Openshift-&gt;Setting-&gt;Add a new key-&gt;把你的public key放到這-&gt;近端放 id_rsa(private key放在cdw2/home/.ssh-&gt;.ssh資料夾要用命令列創指令為mkdir .ssh)以上步驟完成後就可以git clone  Openshift的倉儲下來近端。&lt;br&gt;
 &lt;br&gt;&lt;h2&gt;近端畫布內容介紹(組員須知基本款)&lt;/h2&gt;
 &lt;br&gt;
-&lt;img src="./../files/bg5/17_6.png"&gt;&lt;br&gt;
+&lt;img src="./../files/bg5/17_6.PNG"&gt;&lt;br&gt;
 &lt;br&gt;
 &lt;h2&gt;完成的Onshape的字母圖形&lt;/h2&gt;
 &lt;br&gt;
-&lt;img src="./../files/bg5/17_7.png"&gt;&lt;br&gt;
+&lt;img src="./../files/bg5/17_7.PNG"&gt;&lt;br&gt;
 &lt;br&gt;
 協同的目的是在由大家分配好工作之後分別對於一個專案進行協同，這個Onshape的字母B是由組員所繪製後分配到每個人的作業，這次的作業我是被分配到2D畫布字母B，我發現他和Onshape不同地方是Onshape是藉由限制條件去組立而leo編輯器是藉由調整鏈條方向、位置及角度去達到編輯的目的。&lt;br&gt;
 &lt;br&gt;
