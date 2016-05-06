@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 各組分別在各自的 .py 程式中建立應用程式 (第1步/總共3步)
 from flask import Blueprint, render_template
 
@@ -8,6 +9,7 @@ scrum2_task40123202 = Blueprint('scrum2_task40123202', __name__, url_prefix='/g2
 @scrum2_task40123202.route('/scrum2_task40123202')
 def task1():
     outstring = '''
+  
 from javascript import JSConstructor
 from browser import window
 import math
@@ -76,15 +78,16 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     hole = cobj(shapedefs.circle(4), "PATH")
     cmbr.appendPath(hole)
 
-    # 表示放大 3 倍
-    #cgo.render(cmbr, x, y, 3, rot)
-    # 放大 5 倍
     cgo.render(cmbr, x, y, 1, rot)
+cgo.drawText("綠色為40123202所繪", (-6.8397*5)-50, (-1.4894*5)+20, {"fontSize": 12, "fontWeight": 1200, "lorg":5 })
+O(0, 0, 0, 0, 0, "green", True, 4)
 
-O(0, 0, 0, 0, 0, "yellow", True, 4)
 '''
     return outstring
     
 
     
     
+=======
+http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1">http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1</a>
+>>>>>>> 46882a9e75aae821be5d46ec1a426bfa3abe0746
