@@ -5,8 +5,8 @@ from flask import Blueprint, render_template
 scrum1_task40323213 = Blueprint('scrum1_task40323213', __name__, url_prefix='/bg8', template_folder='templates')
 
 # scrum1_task1 為完整可以單獨執行的繪圖程式
-@scrum1_task40323213.route('/scrum1_13')
-def scrum1_13():
+@scrum1_task40323213.route('/scrum1_13_ABCD')
+def scrum1_13_ABCD():
     outstring = '''
 <!DOCTYPE html>  
 <html>
@@ -126,33 +126,26 @@ mychain = chain()
 
 # 畫 A
 # 左邊四個垂直單元
-x1, y1 = mychain.basic_rot(0+65*3, 0, 90, color="white")
-x2, y2 = mychain.basic_rot(x1, y1, 90, color="white")
-x3, y3 = mychain.basic_rot(x2, y2, 90, color="white")
-x4, y4 = mychain.basic_rot(x3, y3, 90, color="white")
+x1, y1 = mychain.basic_rot(0, 0, 90, color="red")
+x2, y2 = mychain.basic_rot(x1, y1, 90, color="red")
+x3, y3 = mychain.basic_rot(x2, y2, 80, color="red")
+x4, y4 = mychain.basic_rot(x3, y3, 70, color="red")
 # 上方一個水平單元
-x5, y5 = mychain.basic_rot(x4, y4, 0, color="white")
-# 右斜 -40 度
-x6, y6 = mychain.basic_rot(x5, y5, -40, color="white")
-x7, y7 = mychain.basic_rot(x6, y6, -70, color="white")
+x5, y5 = mychain.basic_rot(x4, y4, 0, color="red")
+# 右斜 -70度
+x6, y6 = mychain.basic_rot(x5, y5, -70, color="red")
+x7, y7 = mychain.basic_rot(x6, y6, -80, color="red")
 # 右中垂直向下單元
-x8, y8 = mychain.basic_rot(x7, y7, -90, color="white")
-# -110 度
-x9, y9 = mychain.basic_rot(x8, y8, -100, color="white")
-# -150
-x10, y10 = mychain.basic_rot(x9, y9, -150, color="white")
-# 水平接回原點
-mychain.basic(x10, y10, 0+65*3, 0, color="white")
-
-
-
+x8, y8 = mychain.basic_rot(x7, y7, -90, color="red")
+# -90 度
+x9, y9 = mychain.basic_rot(x8, y8, -90, color="red")
+# -180
+x10, y10 = mychain.basic_rot(x8, y8, -180, color="red")
+# -180
+x11, y11 = mychain.basic_rot(x10, y10, -180, color="red")
+ 
+ 
 </script>
-<!-- 以協同方式加上 ag100 的 scrum-2 組員所寫的 task1 程式碼 -->
-<!-- <script type="text/python" src="/bg4/scrum2_task1"></script>
-<!-- 以協同方式加上 ag100 的  scrum-3 組員所寫的 task1 程式碼 -->
-<!-- <script type="text/python" src="/bg4/scrum3_task1"></script>
 
-</body>
-</html>
 '''
     return outstring
