@@ -1,5 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/ag6.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-05-09T20:42:18+08:00</updated><entry><title>40323111-回報 ag6 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323111-hui-bao-ag6-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-05-09T20:42:18+08:00</updated><author><name>40323111</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323111-hui-bao-ag6-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="http://2015fallhw.github.io/cdw2/post/" rel="alternate"></link><link href="http://2015fallhw.github.io/cdw2/post/feeds/ag6.atom.xml" rel="self"></link><id>http://2015fallhw.github.io/cdw2/post/</id><updated>2016-05-09T22:41:02+08:00</updated><entry><title>40323156-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323156-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T22:41:02+08:00</updated><author><name>40323156</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323156-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;1.任務說明:&lt;/p&gt;
+&lt;p&gt;各組組員各自使用鍊條繪製ABCD四個字母中其中一段，並且利用協同程式碼將每人所繪製的分散鍊條組成完整的字母。&lt;/p&gt;
+&lt;p&gt;2.作品連結:&lt;/p&gt;
+&lt;p&gt;2D、3D繪圖連結&lt;/p&gt;
+&lt;p&gt;openshift 2D繪圖:
+ &lt;a href="http://40323156-ag6.rhcloud.com/ag6/task1"&gt;http://40323156-ag6.rhcloud.com/ag6/task1&lt;/p&gt;
+&lt;p&gt;3.協同用的各個字母的程式如下&lt;/p&gt;
+&lt;p&gt;A:
+&lt;a href="http://40323156-ag6.rhcloud.com/ag6_40323156/A"&gt;http://40323156-ag6.rhcloud.com/ag6_40323156/A&lt;/p&gt;
+&lt;p&gt;B:
+&lt;a href="http://40323156-ag6.rhcloud.com/ag6_40323156/B"&gt;http://40323156-ag6.rhcloud.com/ag6_40323156/B&lt;/p&gt;
+&lt;p&gt;C:
+&lt;a href="http://40323156-ag6.rhcloud.com/ag6_40323156/C"&gt;http://40323156-ag6.rhcloud.com/ag6_40323156/C&lt;/p&gt;
+&lt;p&gt;D:
+&lt;a href="http://40323156-ag6.rhcloud.com/ag6_40323156/D"&gt;http://40323156-ag6.rhcloud.com/ag6_40323156/D&lt;/p&gt;
+&lt;p&gt;4.自評成績:65&lt;/p&gt;</summary><category term="40323156"></category><category term="task1"></category></entry><entry><title>40323155-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323155-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T22:41:02+08:00</updated><author><name>40323155</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323155-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;1.任務說明:&lt;/p&gt;
+&lt;p&gt;各組組員各自使用鍊條繪製ABCD四個字母中其中一段，並且利用協同程式碼將每人所繪製的分散鍊條組成完整的字母。&lt;/p&gt;
+&lt;p&gt;2.作品連結:&lt;/p&gt;
+&lt;p&gt;2D、3D繪圖連結&lt;/p&gt;
+&lt;p&gt;openshift 2D繪圖:
+ &lt;a href="http://40323155-ag6.rhcloud.com/ag6/task1"&gt;http://40323155-ag6.rhcloud.com/ag6/task1&lt;/p&gt;
+&lt;p&gt;onshape 3D繪圖:
+&lt;a href="https://cad.onshape.com/documents/0a1d746bb64b17bf4a43bf78/w/55fd56d3d4c6cd69e8ffc4c0/e/f17441754e1f815f522434e4"&gt;https://cad.onshape.com/documents/0a1d746bb64b17bf4a43bf78/w/55fd56d3d4c6cd69e8ffc4c0/e/f17441754e1f815f522434e4&lt;/p&gt;
+&lt;p&gt;3.協同用的各個字母的程式如下&lt;/p&gt;
+&lt;p&gt;A:
+&lt;a href="http://40323155-ag6.rhcloud.com/ag6_40323155/A"&gt;http://40323155-ag6.rhcloud.com/ag6_40323155/A&lt;/p&gt;
+&lt;p&gt;B:
+&lt;a href="http://40323155-ag6.rhcloud.com/ag6_40323155/B"&gt;http://40323155-ag6.rhcloud.com/ag6_40323155/B&lt;/p&gt;
+&lt;p&gt;C:
+&lt;a href="http://40323155-ag6.rhcloud.com/ag6_40323155/C"&gt;http://40323155-ag6.rhcloud.com/ag6_40323155/C&lt;/p&gt;
+&lt;p&gt;D:
+&lt;a href="http://40323155-ag6.rhcloud.com/ag6_40323155/D"&gt;http://40323155-ag6.rhcloud.com/ag6_40323155/D&lt;/p&gt;
+&lt;p&gt;4.心得:&lt;/p&gt;
+&lt;p&gt;如果只是一個人製作ABCD要花費許多時間，所以才要分工合作的繪製鍊條，每個人繪製一部份在繪製在一起，雖然在分配誰畫哪一段的討論上花了些時間&lt;/p&gt;
+&lt;p&gt;5.自評成績:75&lt;/p&gt;</summary><category term="40323155"></category><category term="task1"></category></entry><entry><title>40323152-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323152-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T22:41:02+08:00</updated><author><name>40323152</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323152-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;1.任務說明:&lt;/p&gt;
+&lt;p&gt;各組組員各自使用鍊條繪製ABCD四個字母中其中一段，並且利用協同程式碼將每人所繪製的分散鍊條組成完整的字母。&lt;/p&gt;
+&lt;p&gt;2.作品連結:&lt;/p&gt;
+&lt;p&gt;2D、3D繪圖連結&lt;/p&gt;
+&lt;p&gt;openshift 2D繪圖:
+ &lt;a href="http://40323152-ag6.rhcloud.com/ag6/task1"&gt;http://40323152-ag6.rhcloud.com/ag6/task1&lt;/p&gt;
+&lt;p&gt;onshape 3D繪圖:
+&lt;a href="https://cad.onshape.com/documents/572ff238e4b01faf08cf76b2/w/f47f6971c092881956cf3b63/e/b4566a7dfd5f7f3521217828"&gt;https://cad.onshape.com/documents/572ff238e4b01faf08cf76b2/w/f47f6971c092881956cf3b63/e/b4566a7dfd5f7f3521217828&lt;/p&gt;
+&lt;p&gt;3.協同用的各個字母的程式如下&lt;/p&gt;
+&lt;p&gt;A:
+&lt;a href="http://40323152-ag6.rhcloud.com/ag6_40323152/A"&gt;http://40323152-ag6.rhcloud.com/ag6_40323152/A&lt;/p&gt;
+&lt;p&gt;B:
+&lt;a href="http://40323152-ag6.rhcloud.com/ag6_40323152/B"&gt;http://40323152-ag6.rhcloud.com/ag6_40323152/B&lt;/p&gt;
+&lt;p&gt;C:
+&lt;a href="http://40323152-ag6.rhcloud.com/ag6_40323152/C"&gt;http://40323152-ag6.rhcloud.com/ag6_40323152/C&lt;/p&gt;
+&lt;p&gt;D:
+&lt;a href="http://40323152-ag6.rhcloud.com/ag6_40323152/D"&gt;http://40323152-ag6.rhcloud.com/ag6_40323152/D&lt;/p&gt;
+&lt;p&gt;4.心得:
+剛開始光是畫一個字母時，就花費相當多的時間，假如我們沒有進行分工合作完成其他的字母，其花費的時間真的不敢想像&lt;/p&gt;
+&lt;p&gt;5.自評成績:75&lt;/p&gt;</summary><category term="40323152"></category><category term="task1"></category></entry><entry><title>40323147-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323147-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T22:41:02+08:00</updated><author><name>40323147</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323147-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;1.任務說明:&lt;/p&gt;
+&lt;p&gt;各組組員各自使用鍊條繪製ABCD四個字母中其中一段，並且利用協同程式碼將每人所繪製的分散鍊條組成完整的字母。&lt;/p&gt;
+&lt;p&gt;2.作品連結:&lt;/p&gt;
+&lt;p&gt;2D、3D繪圖連結&lt;/p&gt;
+&lt;p&gt;openshift 2D繪圖:
+ &lt;a href="http://40323147-2ag6.rhcloud.com/ag6/task1"&gt;http://40323147-2ag6.rhcloud.com/ag6/task1&lt;/p&gt;
+&lt;p&gt;3.協同用的各個字母的程式如下&lt;/p&gt;
+&lt;p&gt;A:
+&lt;a href="http://40323147-2ag6.rhcloud.com/ag6_40323147/A"&gt;http://40323147-2ag6.rhcloud.com/ag6_40323147/A&lt;/p&gt;
+&lt;p&gt;B:
+&lt;a href="http://40323147-2ag6.rhcloud.com/ag6_40323147/B"&gt;http://40323147-2ag6.rhcloud.com/ag6_40323147/B&lt;/p&gt;
+&lt;p&gt;C:
+&lt;a href="http://40323147-2ag6.rhcloud.com/ag6_40323147/C"&gt;http://40323147-2ag6.rhcloud.com/ag6_40323147/C&lt;/p&gt;
+&lt;p&gt;D:
+&lt;a href="http://40323147-2ag6.rhcloud.com/ag6_40323147/D"&gt;http://40323147-2ag6.rhcloud.com/ag6_40323147/D&lt;/p&gt;
+&lt;p&gt;4.自評成績:65&lt;/p&gt;</summary><category term="40323147"></category><category term="task1"></category></entry><entry><title>40323133-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323133-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T22:41:02+08:00</updated><author><name>40323133</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323133-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;1.任務說明:&lt;/p&gt;
+&lt;p&gt;各組組員各自使用鍊條繪製ABCD四個字母中其中一段，並且利用協同程式碼將每人所繪製的分散鍊條組成完整的字母。&lt;/p&gt;
+&lt;p&gt;2.作品連結:&lt;/p&gt;
+&lt;p&gt;2D、3D繪圖連結&lt;/p&gt;
+&lt;p&gt;openshift 2D繪圖:
+ &lt;a href="http://40323133-2ag6.rhcloud.com/ag6/task1"&gt;http://40323133-2ag6.rhcloud.com/ag6/task1&lt;/p&gt;
+&lt;p&gt;3.協同用的各個字母的程式如下&lt;/p&gt;
+&lt;p&gt;A:
+&lt;a href="http://40323133-2ag6.rhcloud.com/ag6_40323133/A"&gt;http://40323133-2ag6.rhcloud.com/ag6_40323133/A&lt;/p&gt;
+&lt;p&gt;B:
+&lt;a href="http://40323133-2ag6.rhcloud.com/ag6_40323133/B"&gt;http://40323133-2ag6.rhcloud.com/ag6_40323133/B&lt;/p&gt;
+&lt;p&gt;C:
+&lt;a href="http://40323133-2ag6.rhcloud.com/ag6_40323133/C"&gt;http://40323133-2ag6.rhcloud.com/ag6_40323133/C&lt;/p&gt;
+&lt;p&gt;D:
+&lt;a href="http://40323133-2ag6.rhcloud.com/ag6_40323133/D"&gt;http://40323133-2ag6.rhcloud.com/ag6_40323133/D&lt;/p&gt;
+&lt;p&gt;4.自評成績:65&lt;/p&gt;</summary><category term="40323133"></category><category term="task1"></category></entry><entry><title>40323112-期中報告</title><link href="http://2015fallhw.github.io/cdw2/post/40323112-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-09T22:41:02+08:00</updated><author><name>40323112</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323112-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;1.任務說明:&lt;/p&gt;
+&lt;p&gt;各組組員各自使用鍊條繪製ABCD四個字母中其中一段，並且利用協同程式碼將每人所繪製的分散鍊條組成完整的字母。&lt;/p&gt;
+&lt;p&gt;2.作品連結:&lt;/p&gt;
+&lt;p&gt;2D、3D繪圖連結&lt;/p&gt;
+&lt;p&gt;openshift 2D繪圖:
+ &lt;a href="http://40323112-2ag6.rhcloud.com/ag6/task1"&gt;http://40323112-2ag6.rhcloud.com/ag6/task1&lt;/p&gt;
+&lt;p&gt;3.協同用的各個字母的程式如下&lt;/p&gt;
+&lt;p&gt;A:
+&lt;a href="http://40323112-2ag6.rhcloud.com/ag6_40323112/A"&gt;http://40323112-2ag6.rhcloud.com/ag6_40323112/A&lt;/p&gt;
+&lt;p&gt;B:
+&lt;a href="http://40323112-2ag6.rhcloud.com/ag6_40323112/B"&gt;http://40323112-2ag6.rhcloud.com/ag6_40323112/B&lt;/p&gt;
+&lt;p&gt;C:
+&lt;a href="http://40323112-2ag6.rhcloud.com/ag6_40323112/C"&gt;http://40323112-2ag6.rhcloud.com/ag6_40323112/C&lt;/p&gt;
+&lt;p&gt;D:
+&lt;a href="http://40323112-2ag6.rhcloud.com/ag6_40323112/D"&gt;http://40323112-2ag6.rhcloud.com/ag6_40323112/D&lt;/p&gt;
+&lt;p&gt;4.自評成績:65&lt;/p&gt;</summary><category term="40323112"></category><category term="task1"></category></entry><entry><title>40323111-回報 ag6 初步繪圖主機與連結</title><link href="http://2015fallhw.github.io/cdw2/post/40323111-hui-bao-ag6-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html" rel="alternate"></link><updated>2016-05-09T22:11:51+08:00</updated><author><name>40323111</name></author><id>tag:2015fallhw.github.io,2016-05-09:cdw2/post/40323111-hui-bao-ag6-chu-bu-hui-tu-zhu-ji-yu-lian-jie.html</id><summary type="html">&lt;p&gt;bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊&lt;/p&gt;
 
 
 &lt;p&gt;目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;&lt;/p&gt;
