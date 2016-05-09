@@ -54,7 +54,14 @@ Category: ag10
 Tags: 40323141, task1
 Author: 40323141
 @others
-ag10 組員 40323141 已經在 cdw2 倉儲中的 master 分支建立對應的組員 40323141.leo 並且完成 Task1 的繪圖藍圖建立與註冊
+組別繪圖:http://g10-40323139.rhcloud.com/ag10/scrum1_task1
+
+組別圖檔:&lt;img src="http://i.imgur.com/rLCRdy0.png="100%"/&gt;
+
+個人圖檔:&lt;img src="http://i.imgur.com/rFFwIj0.png="100%"/&gt;
+
+期中報告心得:
+這學期教的東西很困難，一定要做筆記，不然這次做了下禮拜又會忘記，而且裡面的程式也相當複雜，需要用到的網站也是很多，像是GITHUB、OPENSHIFT等等，中間也是很多次不會用，後來問了班上比較厲害的同學，才大概懂要如何修改程式。
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 

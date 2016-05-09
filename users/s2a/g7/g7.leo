@@ -28,6 +28,18 @@
 <v t="leo.20160418095842.1"><vh>@edit scrum1-20160416.md </vh></v>
 <v t="leo.20160418100005.1"><vh>@edit scrum1-20160417.md </vh></v>
 <v t="leo.20160420231121.1"><vh>@edit scrum1-20160410.md </vh></v>
+<v t="leo.20160509102745.1"><vh>@edit scrum1-20160418.md </vh></v>
+<v t="leo.20160509102859.1"><vh>@edit scrum1-20160419.md </vh></v>
+<v t="leo.20160509102936.1"><vh>@edit scrum1-20160420.md </vh></v>
+<v t="leo.20160509103140.1"><vh>@edit scrum1-20160421.md </vh></v>
+<v t="leo.20160509103242.1"><vh>@edit scrum1-20160422.md </vh></v>
+<v t="leo.20160509103309.1"><vh>@edit scrum1-20160423.md </vh></v>
+<v t="leo.20160509103514.1"><vh>@edit scrum1-20160501.md </vh></v>
+<v t="leo.20160509103844.1"><vh>@edit scrum1-20160502.md </vh></v>
+<v t="leo.20160509104006.1"><vh>@edit scrum1-20160503.md </vh></v>
+<v t="leo.20160509104048.1"><vh>@edit scrum1-20160504.md </vh></v>
+<v t="leo.20160509104257.1"><vh>@edit scrum1-20160505.md </vh></v>
+<v t="leo.20160509104326.1"><vh>@edit scrum1-20160506.md </vh></v>
 <v t="amd.20160329174131.1" a="E"><vh>@path ag7</vh>
 <v t="amd.20160329174139.1"><vh>@clean scrum1-20160411.md</vh></v>
 <v t="leo.20160418092745.1"><vh>@clean scrum1-20160412.md</vh></v>
