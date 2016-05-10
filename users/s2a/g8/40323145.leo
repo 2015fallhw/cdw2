@@ -57,9 +57,34 @@ bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;
+cdw2期中報告
+
+繪出指定字母
+
+步驟:
+
+1.git clone cdw2資料夾,再另外建一個40323145a的py檔
+
+2.在myflaskapp和myflaskapp declarations註冊
+
+3.打路指令python wsgi.py，確認近端能開啟
+
+4.開始繪製個人協同畫圖的部分
+
+&lt;img src="http://imgur.com/B1T9ZRV.jpg" width="100%" /&gt;
+
+5.畫好後，git push上去
+
+6.連結到OpenShift，就能遠端顯示網頁
+
+
+目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://40323145abc-ds77317.rhcloud.com/ag8_40323145a/task2"&gt;http://40323145abc-ds77317.rhcloud.com/ag8_40323145a/task2&lt;/a&gt;
+
+A字母圖:&lt;a href="http://40323145abc-ds77317.rhcloud.com/ag8_40323145/task2"&gt;http://40323145abc-ds77317.rhcloud.com/ag8_40323145/task2&lt;/a&gt;
 
 其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
+
+心得:經過協同畫出ABCD比較了解協同在幹嘛了，可以不用做重複或相同的工作，提高效率，也比較不會浪費資源，酸然畫圖的部分還要加強，而且協同常常有衝突。
 </t>
 <t tx="amd.20160329211330.1"></t>
 </tnodes>
