@@ -183,7 +183,7 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
                      A 40, 40, 0, 0, 1, -6.8397, -1.4894 z"
     cgoChamber = window.svgToCgoSVG(chamber)
     cmbr = cobj(cgoChamber, "SHAPE", {
-            "fillColor": color,
+            "red": color,
             "border": border,
             "strokeColor": "tan",
             "lineWidth": linewidth })
@@ -204,7 +204,7 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     # 放大 5 倍
     cgo.render(cmbr, x, y, 5, rot)
 
-O(0, 0, 0, 0, 0, "green", True, 4)
+O(0, 0, 0, 0, 0, "red", True, 4)
 cgo.setWorldCoords(-250, -4500, 5000, 5000) 
 
 # 決定要不要畫座標軸線
@@ -299,7 +299,7 @@ def O(x, y, rx, ry, rot, color, border, linewidth):
     # 放大 5 倍
     cgo.render(cmbr, x, y, 5, rot)
 
-O(350, 0, 0, 0, 0, "lightyellow", True, 4)
+O(350, 0, 0, 0, 0, "lightblue", True, 4)
 '''
     return outstring
     
