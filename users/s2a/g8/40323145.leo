@@ -21,13 +21,16 @@
 </v>
 <v t="amd.20160314224057.1" a="E"><vh>master 分支 flask 程式開發</vh>
 <v t="amd.20160314224303.1"><vh>@edit task0.py</vh></v>
-<v t="leo.20160328114712.1" a="E"><vh>@path a40323123</vh>
+<v t="leo.20160328114712.1"><vh>@path a40323123</vh>
 <v t="leo.20160425114304.1"><vh>@edit ag8_40323123.py</vh></v>
+</v>
+<v t="leo.20160510163954.1" a="E"><vh>@path task1</vh>
+<v t="leo.20160510163954.2"><vh>@edit ag8_40323145a.py</vh></v>
 </v>
 <v t="leo.20160328085954.1" a="E"><vh>@path task1</vh>
 <v t="leo.20160328090027.1"><vh>@edit ag8_40323145.py</vh></v>
 </v>
-<v t="amd.20160314224737.1" a="E"><vh>@path templates</vh>
+<v t="amd.20160314224737.1"><vh>@path templates</vh>
 <v t="amd.20160314224744.1"><vh>@edit task1.html</vh></v>
 </v>
 <v t="amd.20160314224120.1" a="E"><vh>@path ./../../../</vh>
@@ -47,7 +50,7 @@
 <v t="amd.20160314224239.1"><vh>@path templates</vh></v>
 </v>
 </v>
-<v t="leo.20160328083350.2"><vh>Recovered Nodes</vh>
+<v t="leo.20160328083350.2" a="E"><vh>Recovered Nodes</vh>
 <v t="leo.20160328083350.3"><vh>Recovered node "myflaskapp declarations" from @clean myflaskapp.py</vh>
 <v t="leo.20160328083350.4"><vh>old:myflaskapp declarations</vh></v>
 <v t="leo.20160328083350.5"><vh>new:myflaskapp declarations</vh></v>
@@ -93,6 +96,7 @@ app.register_blueprint(users.s2a.g6.ag6_40323155_task1.ag6_40323155)
 app.register_blueprint(users.s2a.g6.ag6_40323156_task1.ag6_40323156)
 #g8
 app.register_blueprint(users.s2a.g8.task1.ag8_40323145.ag8_40323145)
+app.register_blueprint(users.s2a.g8.task1.ag8_40323145a.ag8_40323145a)
 #g9
 app.register_blueprint(users.s2a.g9.ag9.ag9)
 app.register_blueprint(users.s2a.g9.ag9_40323132_task1.ag9_40323132)
@@ -192,6 +196,7 @@ import users.s2a.g6.ag6_40323155_task1
 import users.s2a.g6.ag6_40323156_task1
 #g8
 import users.s2a.g8.task1.ag8_40323145
+import users.s2a.g8.task1.ag8_40323145a
 #g9
 import users.s2a.g9.ag9
 import users.s2a.g9.ag9_40323132_task1
@@ -1048,5 +1053,6 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
 </t>
+<t tx="leo.20160510163954.1"></t>
 </tnodes>
 </leo_file>
