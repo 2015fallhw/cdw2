@@ -53,13 +53,82 @@ Category: ag8
 Tags: 40323154, task1
 Author: 40323154
 @others
-bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊
-
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;
 
-其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
+期中報告內容:
+利用2D繪圖程式繪製出4個A、BACD及ABCD
+
+啟動 cdw11 協同專案
+
+期中報告內容:
+
+利用2D繪圖程式繪製出AAAA、BACD及ABCD
+
+任務一(繪製出四個A): 
+
+ &lt;img src="./../files/ag8Files/40323154/1.png"&gt;
+
+首先在下圖圈起來地方的位置註冊藍圖及導入
+
+ &lt;img src="./../files/ag8Files/40323154/2.png"&gt;
+&lt;img src="./../files/ag8Files/40323154/3.png"&gt;
+ 
+將2D繪圖程式打開，需要再繪圖的資料夾底下輸入python wsgi.py執行
+
+&lt;img src="./../files/ag8Files/40323154/4.png"&gt;
+
+若在網頁輸入localhost:5000/下圖圈起來的位置1./位置2.，這個名稱自己定，可以任意變更
+
+&lt;img src="./../files/ag8Files/40323154/5.png"&gt;
+
+開啟之後會出現在這個位置底下的東西
+
+ &lt;img src="./../files/ag8Files/40323154/1.png"&gt;
+
+說明如何繪製字母A，首先可以一個一個慢慢接，也可以利用三角函示來接，如下圖
+
+ &lt;img src="./../files/ag8Files/40323154/6.png"&gt;
+
+利用這樣的方法，繪製出一個完整的A，並利用X方向的增量來繪製出4個A
+
+任務二(依序排列BACD): 
+
+根據上面畫A的方法，只是換成B、C及D而已
+
+只是需要注意到的地方是B的寬度要注意一下，否則會更A重疊
+
+
+ &lt;img src="./../files/ag8Files/40323154/7.png"&gt;
+
+
+
+任務三(由上到下排序ABCD):
+
+依照上面所講的方法，再放進A、B、C及D，調整位置就可以完成了
+
+ &lt;img src="./../files/ag8Files/40323154/8.png"&gt;
+
+結果說明:
+
+如何繪製出字母A是靠a很多X、Y軸的變化，經過數學的運算，才會顯示出字母A的形狀
+
+其實除了用到座標軸參數去排列以外，也可以去更改它的鍊條顏色，只要在下圖的地方改成你要的顏色以及畫布的大小
+
+&lt;img src="./../files/ag8Files/40323154/9.png"&gt;
+
+結論與討論:
+
+基本上熟悉了之後，知道要去修改哪邊的數值，才會出現想要的結果，發現字母出現不如預期，大概也知道要去哪裡找問題
+
+pelican 網誌位置: &lt;a href="http://cdw11-2014w11.rhcloud.com/static/"&gt;http://cdw11-2014w11.rhcloud.com/static/&lt;/a&gt;
+
+分組程式: &lt;a href="http://cdw11-ag100.rhcloud.com/option/"&gt;http://cdw11-ag100.rhcloud.com/option/&lt;/a&gt;
+
+fileuploadform: &lt;a href="http://cdw11-ag100.rhcloud.com/fileuploadform/"&gt;http://cdw11-ag100.rhcloud.com/fileuploadform/&lt;/a&gt;
+
+imageuploadform:&lt;a href="http://cdw11-ag100.rhcloud.com/imageuploadform/"&gt;http://cdw11-ag100.rhcloud.com/imageuploadform/&lt;/a&gt;
+
 </t>
 <t tx="amd.20160329211330.1"></t>
 </tnodes>

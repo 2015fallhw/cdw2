@@ -48,12 +48,25 @@ g.es("admin pelican 執行完畢")
 </t>
 <t tx="amd.20160329174131.1"></t>
 <t tx="amd.20160329174139.1">@language md
-Title: 40323143-回報 ag8初步繪圖主機與連結
+Title: 40323143-期中報告
 Category: ag8
 Tags: 40323143, task1
 Author: 40323143
 @others
-bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊
+40323143
+2D 繪圖: &lt;a href="http://python2016-40323143.rhcloud.com/ag8_40323143/task2"&gt;http://python2016-40323143.rhcloud.com/ag8_40323143/task2&lt;/a&gt;
+
+組別 github 倉儲: &lt;a href="https://github.com/40323131/cdw2_g8"&gt;https://github.com/40323131/cdw2_g8&lt;/a&gt;
+
+組別 OpenShift 協同繪圖 : &lt;a href="http://dwa-2014w11.rhcloud.com/ag8/ag8_main"&gt;http://dwa-2014w11.rhcloud.com/ag8/ag8_main&lt;/a&gt;
+
+個人 github 倉儲: &lt;a href="https://github.com/40323143/cdw2/tree/master"&gt;https://github.com/40323143/cdw2/tree/master&lt;/a&gt;
+
+個人 github pages 網頁:
+
+個人其他連結: &lt;a href="https://cad.onshape.com/documents/a2c4e9862065de2f7d22e489/w/c8bbf0ce3cfa08518f0bd323/e/c5e9c12acf01f8ac5ef8db0d"&gt;https://cad.onshape.com/documents/a2c4e9862065de2f7d22e489/w/c8bbf0ce3cfa08518f0bd323/e/c5e9c12acf01f8ac5ef8db0d&lt;/a&gt;
+
+心得:對於協同的架構有一定的認識，但對倉儲的衝突還是十分陌生。
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 

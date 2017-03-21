@@ -53,11 +53,24 @@ Category: ag8
 Tags: 40323137, task1
 Author: 40323137
 @others
-bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊
+40323137
 
+
+繪圖: &lt;a href="http://ericaw-40323137.rhcloud.com/ag8_40323145/task2"&gt;http://ericaw-40323137.rhcloud.com/ag8_40323145/task2&lt;/a&gt;
+
+組別 github 倉儲:&lt;a href="https://github.com/40323131/cdw2_g8"&gt;https://github.com/40323131/cdw2_g8&lt;/a&gt;
+
+組別 OpenShift 協同繪圖: &lt;a href="http://dwa-2014w11.rhcloud.com/ag8/ag8_main"&gt;http://dwa-2014w11.rhcloud.com/ag8/ag8_main&lt;/a&gt;
+
+個人github pages 網頁: &lt;a href="https://github.com/40323137/cdw2/tree/gh-pages"&gt;https://github.com/40323137/cdw2/tree/gh-pages&lt;/a&gt;
+
+個人其他連結: &lt;a href="https://cad.onshape.com/documents/a2c4e9862065de2f7d22e489"&gt;https://cad.onshape.com/documents/a2c4e9862065de2f7d22e489&lt;/a&gt;
+
+個人 github 倉儲: &lt;a href="https://github.com/40323137/cdw2"&gt;https://github.com/40323137/cdw2&lt;/a&gt;
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;
+
+心得：經過課程教導，知道協同的重要性，設計不是單打獨鬥，而是懂得分工合作，才能把設計藍圖做到最好。
 
 其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
 </t>
